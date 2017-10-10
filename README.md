@@ -22,6 +22,11 @@
   4. [Android Opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 
 ### X86
+  1. [Interrupt Instruction](http://ctyme.com/rbrown.htm)
+
+  2. [X86 Resource](https://notes.shichao.io/asm/#hello-world-example)
+
+  3. [X86 Resourece pt1](http://www.tldp.org/HOWTO/Assembly-HOWTO/index.html)
 
 ### C
   1. [Onion http server library](https://github.com/davidmoreno/onion)
@@ -364,6 +369,8 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   2. [Caine](http://www.caine-live.net/)
 
   3. [Tails](https://tails.boum.org/)
+  
+  4. [Linux Commands](https://github.com/tuwid/GNU-Linux-OpsWiki)
 
 ### Mobile OS
 
