@@ -73,39 +73,33 @@
 ### PenTesting
 
   1. Opernation System
-    
-    a. [PenTest OS](https://n0where.net/best-linux-penetration-testing-distributions/)
+    [PenTest OS](https://n0where.net/best-linux-penetration-testing-distributions/)
 
   2. Network Tools
     
-    a.
-    
   3. Wireless Network Tools
-   
-    a.
-    
-  4. 
+
 ### Anonymizers
   1. Tor
-    a. [Tor](https://github.com/nextgens/Tor)
+    [Tor](https://github.com/nextgens/Tor)
 
-    b. [Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
+    [Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
 
-    c. [Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
+    [Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
 
-    d. [Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
+    [Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
 
-    e. [OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
+    [OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
 
-    f. [Thali](http://thaliproject.org/)
+    [Thali](http://thaliproject.org/)
 
-    g. [Tor Exit Node](http://torstatus.blutmagie.de/)
+    [Tor Exit Node](http://torstatus.blutmagie.de/)
 
-    h. [Tor Node List](https://www.dan.me.uk/tornodes)
+    [Tor Node List](https://www.dan.me.uk/tornodes)
 
-    i. [Onion Share](https://github.com/micahflee/onionshare)
+    [Onion Share](https://github.com/micahflee/onionshare)
 
-    j. [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
+    [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
  
 ### VPN
   1. [IPVN](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-8)
