@@ -5,20 +5,21 @@
 ### [Algorithm Github](https://github.com/tayllan/awesome-algorithms)
 
 ## CheatSheet 
-[Docker](https://github.com/wsargent/docker-cheat-sheet)
+  1. [Docker](https://github.com/wsargent/docker-cheat-sheet)
 
-[***Great Cheat Sheet Reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cheat%20sheets%20reference%20pages%20Checklists%20-.md)
+  2. [***Great Cheat Sheet Reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cheat%20sheets%20reference%20pages%20Checklists%20-.md)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
 
 ### Android
-[Android GitHub Repo](https://github.com/Jackgris/awesome-android)
+  1. [Android GitHub Repo](https://github.com/Jackgris/awesome-android)
 
-[Android GitHub Repo 2](https://github.com/JStumpp/awesome-android)
+  2. [Android GitHub Repo 2](https://github.com/JStumpp/awesome-android)
 
-[Mobile Security](https://github.com/OWASP/owasp-mstg)
-[Android Opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
+  3. [Mobile Security](https://github.com/OWASP/owasp-mstg)
+
+  4. [Android Opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 
 ### X86
 
@@ -53,16 +54,16 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Data Mining
-[Basic Data Jouralist ToolBox](https://github.com/basilesimon/datajournalists-toolbox)
+  1. [Basic Data Jouralist ToolBox](https://github.com/basilesimon/datajournalists-toolbox)
 
-[Tech Papers](https://github.com/NicolasT/papers)
+  2. [Tech Papers](https://github.com/NicolasT/papers)
 
-[Public API](https://github.com/toddmotto/public-apis)
+  3. [Public API](https://github.com/toddmotto/public-apis)
 
 ## Security 
 
 ### Secure Email
-[Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
+  1. [Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
 
 ### Packet Capture
   1. [PF Ring](http://distrowatch.com/search.php?category=Security)
