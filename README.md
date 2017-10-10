@@ -5,6 +5,7 @@
 
 ## CheatSheet 
 [Docker](https://github.com/wsargent/docker-cheat-sheet)
+[***Great Cheat Sheet Reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cheat%20sheets%20reference%20pages%20Checklists%20-.md)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
@@ -15,6 +16,7 @@
 [Android GitHub Repo 2](https://github.com/JStumpp/awesome-android)
 
 [Mobile Security](https://github.com/OWASP/owasp-mstg)
+[Android Opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 
 ## X86
 
@@ -41,6 +43,11 @@
 ### Python 
   1. [Tornado Asyn Networking Library](http://www.tornadoweb.org/en/stable/)
 
+  2. [File Intel](https://github.com/keithjjones/fileintel)
+  
+  3. [Host Intel](https://github.com/keithjjones/hostintel)
+  
+  4. [Threat Tracker](https://github.com/michael-yip/ThreatTracker)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Data Mining
@@ -63,41 +70,63 @@
 ### PenTesting
 
   1. Opernation System
+    
     a. [PenTest OS](https://n0where.net/best-linux-penetration-testing-distributions/)
 
   2. Network Tools
+    
     a.
+    
   3. Wireless Network Tools
+   
     a.
+    
   4. 
-### Tor
-  1. [Tor](https://github.com/nextgens/Tor)
+### Anonymizers
+  1. Tor
+    1. [Tor](https://github.com/nextgens/Tor)
 
-  2. [Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
+    2. [Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
 
-  3. [Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
+    3. [Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
 
-  4. [Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
+    4. [Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
 
-  5. [OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
+    5. [OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
 
-  6. [Thali](http://thaliproject.org/)
+    6. [Thali](http://thaliproject.org/)
 
-  7. [Tor Exit Node](http://torstatus.blutmagie.de/)
+    7. [Tor Exit Node](http://torstatus.blutmagie.de/)
 
-  8. [Tor Node List](https://www.dan.me.uk/tornodes)
+    8. [Tor Node List](https://www.dan.me.uk/tornodes)
 
-  9. [Onion Share](https://github.com/micahflee/onionshare)
+    9. [Onion Share](https://github.com/micahflee/onionshare)
 
+    10. [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
+
+  2. 
 ### VPN
   1. [IPVN](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-8)
 
   2. [IPSEC-VPN](https://github.com/hwdsl2/setup-ipsec-vpn)
 
-## Malware Analysis
-[CyberSecurity Inventory](http://list.rawsec.ml/operating_systems.html)
+### Malware Analysis
+  1. [CyberSecurity Inventory](http://list.rawsec.ml/operating_systems.html)
 
-[VirusTotal](https://www.virustotal.com/#/home/upload)
+  2. [VirusTotal](https://www.virustotal.com/#/home/upload)
+
+  3. [Malware Threat Sharing](https://github.com/MISP/MISP)
+  
+  4. [RISIQ](https://community.riskiq.com/)
+  
+### Low Level Attacks
+[*** Look Through this Github](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/BIOS%20UEFI%20Attacks%20Defenses.md)
+[***Embedded System](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Embedded%20Device%20%26%20Hardware%20Hacking%20-.md)
+
+[]()
+
+### Car Hacking
+[***Need to sort this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Car%20Hacking.md)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -172,13 +201,20 @@
 
   9. [Industrial Control System](https://github.com/mpesen/awesome-industrial-control-system-security)
 
+  10. [Network Attacks](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network%20Attacks%20%26%20Defenses.md)
+
+### Wireless Networks
+[**Need to sort through this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless%20Networks%20%26%20RF.md)
 
 ### Cloud Computing
 
   1. [Cloud Computing Conferences](http://stefan-kolb.github.io/cloud-conferences/)
+
 ### Server
+  
   1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
 
+  2. [PenTest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md)
 
 ### Firewall
   1. []()
@@ -201,25 +237,35 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## OSINT(Open Source Intelligence)
-  1. [***OSINT Repo Need to Go Through](https://github.com/jivoi/awesome-osint)
-  1. [Autoshun](https://www.autoshun.org/)
+  1.  [Autoshun](https://www.autoshun.org/)
 
-  2.[CyberTHreat Feeds](http://osint.bambenekconsulting.com/feeds/)
+  2. [CyberTHreat Feeds](http://osint.bambenekconsulting.com/feeds/)
 
-  3.[Threat Intelligence Database](http://cinsscore.com/)
+  3. [Threat Intelligence Database](http://cinsscore.com/)
 
-  4.[Criticalstack](https://intel.criticalstack.com/)
+  4. [Criticalstack](https://intel.criticalstack.com/)
 
-  5.[CyberCrime Tracker](http://cybercrime-tracker.net/)
+  5. [CyberCrime Tracker](http://cybercrime-tracker.net/)
 
-  6.[CyberCrime IP Feeds](https://iplists.firehol.org/)
+  6. [CyberCrime IP Feeds](https://iplists.firehol.org/)
 
-  7.[HPfeeds](https://github.com/rep/hpfeeds)
+  7. [HPfeeds](https://github.com/rep/hpfeeds)
 
-  8.[Threat Database](http://malc0de.com/database/)
+  8. [Threat Database](http://malc0de.com/database/)
 
-  9.[Cyber Security Intelligence](https://threatrecon.co/)
+  9. [Cyber Security Intelligence](https://threatrecon.co/)
+  
+  10. [***OSINT Repo Need to Go Through](https://github.com/jivoi/awesome-osint)
 
+  11. [OSINTFramework](http://osintframework.com/)
+  
+  12. [Open Source Intelligence Techniques](https://inteltechniques.com/menu.html)
+
+  13. [AlienVault](https://otx.alienvault.com/)
+  
+  14. [Combine](https://github.com/mlsecproject/combine)
+  
+  15. [**OSINT GitHUB Repo](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Open%20Source%20Intelligence.md)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ### Search Engine
@@ -291,6 +337,12 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 ## Operating Systems
 [Whonix](https://www.whonix.org/)
 
+[Caine](http://www.caine-live.net/)
+
+[Tails](https://tails.boum.org/)
+
+### Mobile OS
+
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -314,6 +366,7 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Standard / Codes
+### World Wide Web
   1. [W3C](https://www.w3.org/TR/webarch/)
 
   2. [Common Vulnerabilities and Exposures](https://cve.mitre.org/)
@@ -323,34 +376,147 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   4. [Common Vulnerabiity Scoring System](https://www.first.org/cvss/)
 
   5. [ISO](https://www.iso.org/standard/45170.html)
+  
+  6. [Uniform Resource Identifier (URI)](https://tools.ietf.org/html/rfc3986)
+
+  7. [URI Template](https://tools.ietf.org/html/rfc6570)
+
+  8. [URI Design and Ownership](https://tools.ietf.org/html/rfc7320)
 
 ---------------------------------------------------------------------------------------------------------------------------------
-### RFC 
-  1. [Uniform Resource Identifier (URI)](https://tools.ietf.org/html/rfc3986)
+### HTTP/1.1 
+  1. [HTTP](https://tools.ietf.org/html/rfc7230)
 
-  2. [URI Template](https://tools.ietf.org/html/rfc6570)
+  2. [HTTP Semantics and COntent](https://tools.ietf.org/html/rfc7231)
 
-  3. [URI Design and Ownership](https://tools.ietf.org/html/rfc7320)
+  3. [HTTP Requests](https://tools.ietf.org/html/rfc7232)
 
-  4. [HTTP](https://tools.ietf.org/html/rfc7230)
+  4. [HTTP Range Requests](https://tools.ietf.org/html/rfc7233)
 
-  5. [HTTP Semantics and COntent](https://tools.ietf.org/html/rfc7231)
+  5. [HTTP Caching](https://tools.ietf.org/html/rfc7234)
 
-  6. [HTTP Requests](https://tools.ietf.org/html/rfc7232)
-
-  7. [HTTP Range Requests](https://tools.ietf.org/html/rfc7233)
-
-  8. [HTTP Caching](https://tools.ietf.org/html/rfc7234)
-
-  9. [HTTP Authentication](https://tools.ietf.org/html/rfc7235)
-
-  10. [HTTP/2](https://tools.ietf.org/html/rfc7540)
+  6. [HTTP Authentication](https://tools.ietf.org/html/rfc7235)
+ 
 ---------------------------------------------------------------------------------------------------------------------------------
+  
+### HTTP/2
+  1. [HTTP/2](https://tools.ietf.org/html/rfc7540)
+  
+---------------------------------------------------------------------------------------------------------------------------------
+### CoAP
+[Web Transfer Protocol RFC 7252]()
+
+---------------------------------------------------------------------------------------------------------------------------------
+### RPC
+[BERT-RPC 1.0]()
+
+[JSON-RPC 2.0]()
+---------------------------------------------------------------------------------------------------------------------------------
+### Messaging
+[Advancd Message Queing Protocol]()
+
+[MQ Telemetry Transport]()
+
+[Simplet Text Oriented Messageing Protocol]()
+
+---------------------------------------------------------------------------------------------------------------------------------
+### Security
+
+[TLS](https://tools.ietf.org/html/rfc5246)
+
+[TLS Extension](https://tools.ietf.org/html/rfc6066)
+
+[Datagram Transport Layer](https://tools.ietf.org/html/rfc6347)
+
+[oAuth](https://tools.ietf.org/html/rfc6749)
+
+[JSon Web Signature](https://tools.ietf.org/html/rfc7515)
+
+[JSON Web Token](https://tools.ietf.org/html/rfc7519)
+
+[SCIM](https://tools.ietf.org/html/rfc7642)
+
+[SCIM Part2](https://tools.ietf.org/html/rfc7643)
+
+[SCIM Part 3](https://tools.ietf.org/html/rfc7644)
+
+[OpenID](http://openid.net/connect/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+### Service Discovery
+[HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)
+
+[Hydra](http://www.hydra-cg.com/)
+
+[GraphQL](http://graphql.org/)
+
+[WADL]()
+
+[WSDL]()
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+### Data Formats
+
+[JSON](https://tools.ietf.org/html/rfc4627)
+
+[Concise Binary Object Represenation](https://tools.ietf.org/search/rfc7049)
+
+[Binry JSON](http://bsonspec.org/)
+
+[JSON for Linking Data](https://json-ld.org/)
+
+[Simple Binary Encoding](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding)
+
+[MessagePack](https://github.com/msgpack/msgpack/blob/master/spec.md)
+
+[Universal Binary Json Specification](http://ubjson.org/)
+
+### Schema
+[JSON Schema](http://json-schema.org/)
+
+[LOV](http://lov.okfn.org/dataset/lov/)
+
+[Schema](http://schema.org/)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+### Unicode
+
+[Unicde 8.0.0](http://www.unicode.org/versions/Unicode8.0.0/)
+
+[UTF-8 Transformation format of ISO 10646](https://tools.ietf.org/html/rfc3629)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 ## Learning
 [Open Tech Bookshelf](https://github.com/OpenTechSchool/bookshelf)
 
+# Red Team Operations
+[TradeCraft](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
+
+[More Red Team](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
+
+[More Red Team](https://bluescreenofjeff.com/2017-05-02-red-teaming-for-pacific-rim-ccdc-2017/)
+
+[MOre Red Team](https://bluescreenofjeff.com/2017-08-30-randomized-malleable-c2-profiles-made-easy/)
+
+[Red Team Stuff](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
 
 # Random
+[Linkedin Security](https://www.mdsec.co.uk/2017/07/reconnaissance-using-linkedint/)
+
 [BitCoin](https://github.com/jashmenn/bitcoin-reading-list)
+
+[CVE-2017-0199](https://github.com/bhdresh/CVE-2017-0199)
+
+[OPSEC Considerations for Beacon Communication](https://blog.cobaltstrike.com/2017/06/23/opsec-considerations-for-beacon-commands/)
+
+[HOw to build a C2 infrastructre with Digital OCean](https://www.blackhillsinfosec.com/build-c2-infrastructure-digital-ocean-part-1/)
+
+[Excel marcos with Powershell](https://4sysops.com/archives/excel-macros-with-powershell/)
+
 [Bio](https://github.com/lancelafontaine/bioinformatics-compbio-tools)
+
 [Cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
