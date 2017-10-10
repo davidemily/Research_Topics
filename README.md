@@ -82,25 +82,25 @@
 ### Anonymizers
   1. Tor
   
-    [Tor](https://github.com/nextgens/Tor)
+  2. [Tor](https://github.com/nextgens/Tor)
 
-    [Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
+  3. [Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
 
-    [Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
+  4. [Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
 
-    [Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
+  5. [Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
 
-    [OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
+  6. [OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
 
-    [Thali](http://thaliproject.org/)
+  7. [Thali](http://thaliproject.org/)
 
-    [Tor Exit Node](http://torstatus.blutmagie.de/)
+  8. [Tor Exit Node](http://torstatus.blutmagie.de/)
 
-    [Tor Node List](https://www.dan.me.uk/tornodes)
+  9. [Tor Node List](https://www.dan.me.uk/tornodes)
 
-    [Onion Share](https://github.com/micahflee/onionshare)
+  10. [Onion Share](https://github.com/micahflee/onionshare)
 
-    [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
+  11. [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
  
 ### VPN
   1. [IPVN](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-8)
