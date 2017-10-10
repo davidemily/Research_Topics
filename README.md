@@ -1,10 +1,22 @@
 # Research_Topics
 
+## Algorithms
+### [Algorithm Github](https://github.com/tayllan/awesome-algorithms)
+
 ## CheatSheet 
 [Docker](https://github.com/wsargent/docker-cheat-sheet)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
+
+## Android
+[Android GitHub Repo](https://github.com/Jackgris/awesome-android)
+
+[Android GitHub Repo 2](https://github.com/JStumpp/awesome-android)
+
+[Mobile Security](https://github.com/OWASP/owasp-mstg)
+
+## X86
 
 ### C
   1. [Onion http server library](https://github.com/davidmoreno/onion)
@@ -31,7 +43,33 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+## Data Mining
+[Basic Data Jouralist ToolBox](https://github.com/basilesimon/datajournalists-toolbox)
+
+[Tech Papers](https://github.com/NicolasT/papers)
+
+[Public API](https://github.com/toddmotto/public-apis)
+
 ## Security 
+
+### Secure Email
+[Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
+
+### Packet Capture
+  1. [PF Ring](http://distrowatch.com/search.php?category=Security)
+  
+  2. [PF Ring ZC](http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/)
+
+### PenTesting
+
+  1. Opernation System
+    a. [PenTest OS](https://n0where.net/best-linux-penetration-testing-distributions/)
+
+  2. Network Tools
+    a.
+  3. Wireless Network Tools
+    a.
+  4. 
 ### Tor
   1. [Tor](https://github.com/nextgens/Tor)
 
@@ -59,6 +97,8 @@
 ## Malware Analysis
 [CyberSecurity Inventory](http://list.rawsec.ml/operating_systems.html)
 
+[VirusTotal](https://www.virustotal.com/#/home/upload)
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## IOT Hacks
@@ -82,6 +122,7 @@
 
   5. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
 
+  6. [Emerging Threats](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Software
@@ -122,13 +163,26 @@
   4. [BRO](https://hub.docker.com/r/blacktop/bro/)
 
   5. [RouterSploit](https://github.com/reverse-shell/routersploit)
+  
+  6. [pfsense](https://www.pfsense.org)
+  
+  7. [Open Source Firewall](https://opnsense.org/)
+  
+  8. [Packet Capture GitHub](https://github.com/caesar0301/awesome-pcaptools)
+
+  9. [Industrial Control System](https://github.com/mpesen/awesome-industrial-control-system-security)
 
 
+### Cloud Computing
+
+  1. [Cloud Computing Conferences](http://stefan-kolb.github.io/cloud-conferences/)
 ### Server
-1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
+  1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
 
 
 ### Firewall
+  1. []()
+  
   2. [China DNS poisoning](https://github.com/shadowsocks/ChinaDNS)
 
   3. [PinPoint IP Address of Machine Working for Great Firewall of China](https://github.com/mothran/mongol)
@@ -147,6 +201,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## OSINT(Open Source Intelligence)
+  1. [***OSINT Repo Need to Go Through](https://github.com/jivoi/awesome-osint)
   1. [Autoshun](https://www.autoshun.org/)
 
   2.[CyberTHreat Feeds](http://osint.bambenekconsulting.com/feeds/)
@@ -196,12 +251,6 @@
   5. [Zapmeta](http://www.zapmeta.com/)
 
 ---------------------------------------------------------------------------------------------------------------------------------
-## Android
-
-## X86
-
-
----------------------------------------------------------------------------------------------------------------------------------
 
 ## Docker Container
 docker pull owasp/zap2docker-stable - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
@@ -247,7 +296,8 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
 ### Linux
   1. [Linux Kernal](https://github.com/xairy/linux-kernel-exploitation)
-
+  
+  2. [Distro Watch](http://distrowatch.com/search.php?category=Security)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -296,4 +346,11 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
   10. [HTTP/2](https://tools.ietf.org/html/rfc7540)
 ---------------------------------------------------------------------------------------------------------------------------------
+## Learning
+[Open Tech Bookshelf](https://github.com/OpenTechSchool/bookshelf)
 
+
+# Random
+[BitCoin](https://github.com/jashmenn/bitcoin-reading-list)
+[Bio](https://github.com/lancelafontaine/bioinformatics-compbio-tools)
+[Cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
