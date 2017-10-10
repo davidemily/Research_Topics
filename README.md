@@ -29,6 +29,8 @@
   
   11. [Big-O](https://www.clear.rice.edu/comp160/data_cheat.html)
   
+  12. [Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)
+  
 ------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
 
@@ -172,6 +174,12 @@
   3. [Build your own VPN](https://arstechnica.com/gadgets/2017/05/how-to-build-your-own-vpn-if-youre-rightfully-wary-of-commercial-options/3/)
   
   4. [OpenVPN Server on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
+  
+  5. [Tunnel Bear](https://www.tunnelbear.com)
+  
+  6. [Lantern](https://getlantern.org/en_US/)
+  
+  7. [Psiphon](https://psiphon3.com/en/index.html)
   
 ### SSL
 
