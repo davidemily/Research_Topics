@@ -51,14 +51,38 @@
   3. [Host Intel](https://github.com/keithjjones/hostintel)
   
   4. [Threat Tracker](https://github.com/michael-yip/ThreatTracker)
----------------------------------------------------------------------------------------------------------------------------------
 
+
+---------------------------------------------------------------------------------------------------------------------------------
+## 
+---------------------------------------------------------------------------------------------------------------------------------
 ## Data Mining
   1. [Basic Data Jouralist ToolBox](https://github.com/basilesimon/datajournalists-toolbox)
 
   2. [Tech Papers](https://github.com/NicolasT/papers)
 
   3. [Public API](https://github.com/toddmotto/public-apis)
+  
+  4. [UKParliament API](https://github.com/russss/ukparliament)
+  
+  5. [LegiScan API](https://github.com/poliquin/pylegiscan)
+  
+  6. [Open States API](https://github.com/poliquin/pylegiscan)
+  
+  7. [IRS 990 Database](https://github.com/CharityNavigator/irs990)
+  
+  8. [News API](https://github.com/SlapBot/newsapi)
+  
+  9. [ProPublica](https://github.com/eyeseast/propublica-congress)
+  
+  10. [CKAN](https://github.com/ckan/ckan)
+  
+  11. [News Paper](https://github.com/codelucas/newspaper)
+  
+  12. [News API](https://newsapi.aylien.com/)
+  
+  13. [Exective Order](https://github.com/chrisengelsma/executive_orders)
+  
 
 ## Security 
 
@@ -234,7 +258,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## OSINT(Open Source Intelligence)
-  1.  [Autoshun](https://www.autoshun.org/)
+  1. [Autoshun](https://www.autoshun.org/)
 
   2. [CyberTHreat Feeds](http://osint.bambenekconsulting.com/feeds/)
 
@@ -263,6 +287,9 @@
   14. [Combine](https://github.com/mlsecproject/combine)
   
   15. [**OSINT GitHUB Repo](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Open%20Source%20Intelligence.md)
+
+  16. [ArcReactor](https://github.com/deadbits/arcreactor)
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ### Search Engine
@@ -506,6 +533,9 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 [Red Team Stuff](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
 
 # Random
+
+[Interesting Books](https://github.com/hackerkid/Mind-Expanding-Books)
+
 [Linkedin Security](https://www.mdsec.co.uk/2017/07/reconnaissance-using-linkedint/)
 
 [BitCoin](https://github.com/jashmenn/bitcoin-reading-list)
