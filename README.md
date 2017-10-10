@@ -119,7 +119,7 @@
 ### IDS
   1. Snort
     
-    a. [Snort](https://www.snort.org)
+    [Snort](https://www.snort.org)
 
 ### Secure Email
   1. [Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
@@ -162,17 +162,17 @@
 ### Car Hacking
 [***Need to sort this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Car%20Hacking.md)
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ## IOT Hacks
   1. [IOT Github rep](https://github.com/nebgnahz/awesome-iot-hacks)
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ## Vulnerability Research
 
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ## Security Attack / Information
   1. [Fuzzing](https://labsblog.f-secure.com/2017/06/22/super-awesome-fuzzing-part-one/)
@@ -186,36 +186,60 @@
   5. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
 
   6. [Emerging Threats](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ## Software
 
 ### Docker
-  1. [Route Traffic through host with TOR Docker Container](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/)
+  1. Training
+    
+    [Docker Training](https://training.docker.com/)
+    
+    [More Docker Training](https://www.katacoda.com/)
+    
+    [Access docker machine from android app](https://forums.docker.com/t/access-to-a-docker-machine-from-android-app/9148/2)
+    
+  2. Tor
+  
+    [Route Traffic through host with TOR Docker Container](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/)
+    
+    [Tor Relay with Docker](https://blog.jessfraz.com/post/running-a-tor-relay-with-docker/)
+    
+    [Docker container Tor](https://www.arulraj.net/2015/05/docker-container-for-tor-with-privoxy.html)
+    
+    [Create a Bridge and Shared Network](https://coderwall.com/p/2rpbba/docker-create-a-bridge-and-shared-network)
 
-  2. [Docker Training](https://training.docker.com/)
+  3. Microservices
+    
+    [Better Explaination of Microservices](https://martinfowler.com/microservices/)
+  
+    [Kubernets Tranining](http://k8s.info/cs.html)
+    
+    [Kubernetes](https://github.com/kubernetes/kubernetes)
+    
+    [Kubernets GitHub Rep](https://github.com/ramitsurana/awesome-kubernetes)
+    
+    [Setting Up Microservices](http://microservices.io/)
+    
+    [Docker MicroServices Manager](https://www.weave.works/)
+    
+    [Docker microservices](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/)
+    
+    [MicroServices with Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+    
+    [What is a microservice](https://martinfowler.com/articles/microservices.html)
 
-  3. [More Docker Training](https://www.katacoda.com/)
+    [Microservice](https://content.pivotal.io/blog/how-to-talk-to-your-friends-about-microservices)
 
-  4. [Kubernetes](https://github.com/kubernetes/kubernetes)
+    [Building Microservices](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4)
 
-  5. [Kubernets GitHub Rep](https://github.com/ramitsurana/awesome-kubernetes)
+    [SoundCloud Microservice](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 
-  6. [Kubernets Tranining](http://k8s.info/cs.html)
-
-  7. [Docker Swarm](https://github.com/tpbowden/swarm-ingress-router)
-
-  8. [Setting Up Microservices](http://microservices.io/)
-
-  9. [Better Explaination of Microservices](https://martinfowler.com/microservices/)
-
-  10. [Docker MicroServices Manager](https://www.weave.works/)
-
-  11. [Docker microservices](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/)
-
-  12. [Access docker machine from android app](https://forums.docker.com/t/access-to-a-docker-machine-from-android-app/9148/2)
-
-  13. [MicroServices with Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+    [12 Factors](https://12factor.net/)
+    
+  4. Swarm
+    
+    [Docker Swarm](https://github.com/tpbowden/swarm-ingress-router)
 -----------------------------------------------------------------------------------------
 ## Network
   1. [I2P](https://geti2p.net/en/download/debian#ubuntu)
@@ -269,7 +293,7 @@
 ### Security Onion
 
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ## OSINT(Open Source Intelligence)
   1. [Autoshun](https://www.autoshun.org/)
@@ -304,7 +328,7 @@
 
   16. [ArcReactor](https://github.com/deadbits/arcreactor)
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ### Search Engine
   1. [Phillippines](http://www.alleba.com/)
@@ -321,7 +345,7 @@
   
   7.[Israel](https://www.walla.co.il/)
 
----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 ### Meta Search Engine 
   1. [etools](http://www.etools.ch/)
@@ -334,7 +358,7 @@
   
   5. [Zapmeta](http://www.zapmeta.com/)
 
----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Docker Container
 docker pull owasp/zap2docker-stable - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
@@ -365,12 +389,12 @@ docker pull citizenstig/nowasp - [OWASP Mutillidae II Web Pen-Test Practice Appl
 
 docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
 
----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Reverse Engineering
 
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ## Operating Systems
   1. [Whonix](https://www.whonix.org/)
@@ -384,7 +408,7 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 ### Mobile OS
 
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ### Linux
   1. [Linux Kernal](https://github.com/xairy/linux-kernel-exploitation)
@@ -393,16 +417,7 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-## MicroServices
-  1. [What is a microservice](https://martinfowler.com/articles/microservices.html)
 
-  2. [Microservice](https://content.pivotal.io/blog/how-to-talk-to-your-friends-about-microservices)
-
-  3. [Building Microservices](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4)
-
-  4. [SoundCloud Microservice](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
-
-  5. [12 Factors](https://12factor.net/)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Standard / Codes
@@ -534,7 +549,11 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 ### Code Documenation
 [RFC Codes ALL](http://www.rfc-editor.org/retrieve/)
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+
+### Government Guidelines
+
+  1. [HIPPA](http://www.mass.gov/anf/research-and-tech/cyber-security/security-for-state-employees/risk-assessment/risk-assessment-guideline.html)
 
 ## Learning
 [Open Tech Bookshelf](https://github.com/OpenTechSchool/bookshelf)
