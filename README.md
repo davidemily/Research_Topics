@@ -31,6 +31,8 @@
   
   12. [Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)
   
+  13. [Packet Cheat Sheet](http://packetlife.net/library/cheat-sheets/)
+  
 ------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
 
@@ -42,6 +44,8 @@
   3. [Mobile Security](https://github.com/OWASP/owasp-mstg)
 
   4. [Android Opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
+  
+  5. [Android VPN Service](https://developer.android.com/reference/android/net/VpnService.html)
 
 ### X86
   1. [Interrupt Instruction](http://ctyme.com/rbrown.htm)
@@ -183,6 +187,8 @@
   
 ### SSL
 
+
+  1. [OpenSSL](https://www.openssl.org)
   1. [Self Signed SSL Cert](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04)
 
 ### Malware Analysis
@@ -302,6 +308,14 @@
   9. [Industrial Control System](https://github.com/mpesen/awesome-industrial-control-system-security)
 
   10. [Network Attacks](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network%20Attacks%20%26%20Defenses.md)
+  
+  11. [Socket](http://beej.us/guide/bgnet/output/html/multipage/index.html)
+  
+  12. [TCP Building Blocks](https://hpbn.co/building-blocks-of-tcp/)
+  
+  13. [NAT](https://www.ietf.org/rfc/rfc1631.txt)
+  
+  14. [Socks](https://www.ietf.org/rfc/rfc1928.txt)
 
 ### Wireless Networks
 [**Need to sort through this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless%20Networks%20%26%20RF.md)
@@ -453,6 +467,8 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   4. [Linux Commands](https://github.com/tuwid/GNU-Linux-OpsWiki)
   
   5. [Linux Executable WalkThrough](https://i.imgur.com/q5nyHp7.png)
+  
+  6. [Linux Kernal](https://github.com/torvalds/linux)
 
 ### Mobile OS
 
@@ -660,3 +676,5 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 [Cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
 
 [Get Internet access when government shuts it down](https://www.computerworld.com/article/2470311/government-it/get-internet-access-when-your-government-shuts-it-down.html)
+
+[Cool Network Stuff](https://github.com/briatte/awesome-network-analysis)
