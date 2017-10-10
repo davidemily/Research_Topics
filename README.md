@@ -9,7 +9,7 @@
 
   2. [***Great Cheat Sheet Reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cheat%20sheets%20reference%20pages%20Checklists%20-.md)
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
 
 ### Android
@@ -47,6 +47,8 @@
   7. [Spark](http://sparkjava.com/)
 
   8. [RestCommander](https://github.com/eBay/restcommander)
+  
+  9. [Add Tor to Java Application](https://tor.stackexchange.com/questions/12546/how-to-add-tor-services-in-my-java-application)
 
 ### Python 
   1. [Tornado Asyn Networking Library](http://www.tornadoweb.org/en/stable/)
@@ -58,9 +60,9 @@
   4. [Threat Tracker](https://github.com/michael-yip/ThreatTracker)
 
 
----------------------------------------------------------------------------------------------------------------------------------
-## 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
+##
+------------------------------------------------------------------------------------------------------------------------------
 ## Data Mining
   1. [Basic Data Jouralist ToolBox](https://github.com/basilesimon/datajournalists-toolbox)
 
@@ -91,25 +93,8 @@
 
 ## Security 
 
-### Secure Email
-  1. [Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
-
-### Packet Capture
-  1. [PF Ring](http://distrowatch.com/search.php?category=Security)
-  
-  2. [PF Ring ZC](http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/)
-
-### PenTesting
-
-  1. Opernation System
-    [PenTest OS](https://n0where.net/best-linux-penetration-testing-distributions/)
-
-  2. Network Tools
-    
-  3. Wireless Network Tools
-
 ### Anonymizers
-  1. Tor
+  1. []()
   
   2. [Tor](https://github.com/nextgens/Tor)
 
@@ -130,6 +115,30 @@
   10. [Onion Share](https://github.com/micahflee/onionshare)
 
   11. [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
+  
+### IDS
+  1. Snort
+    
+    [Snort](https://www.snort.org)
+
+### Secure Email
+  1. [Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
+
+### Packet Capture
+  1. [PF Ring](http://distrowatch.com/search.php?category=Security)
+  
+  2. [PF Ring ZC](http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/)
+
+### PenTesting
+
+  1. Opernation System
+    [PenTest OS](https://n0where.net/best-linux-penetration-testing-distributions/)
+
+  2. Network Tools
+    
+  3. Wireless Network Tools
+
+
  
 ### VPN
   1. [IPVN](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-8)
