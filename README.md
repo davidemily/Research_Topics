@@ -8,7 +8,27 @@
   1. [Docker](https://github.com/wsargent/docker-cheat-sheet)
 
   2. [***Great Cheat Sheet Reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cheat%20sheets%20reference%20pages%20Checklists%20-.md)
-
+  
+  3. [Security Onion](http://chrissanders.org/SO-CheatSheet.pdf)
+  
+  4. [Linux Command](http://www.pixelbeat.org/cmdline.html)
+  
+  5. [Linux Command PT1](http://www.unixguide.net/linux/linuxshortcuts.shtml)
+  
+  6. [HardWare Pictures](https://sonic840.deviantart.com/art/Computer-hardware-poster-1-7-111402099)
+  
+  7. [X86](http://www.jegerlehner.ch/intel/IntelCodeTable.pdf)
+  
+  8. [Apache](http://www.petefreitag.com/cheatsheets/apache/)
+  
+  9. [Java Collection CheatSheet](http://www.sergiy.ca/guide-to-selecting-appropriate-map-collection-in-java/)
+  
+  10. [DataStructure CheatSheet](https://sinon.org/algorithms/#data-structures)
+  
+  11. [DataStructure CheatSheet PT.1](https://www.clear.rice.edu/comp160/data_cheat.html)
+  
+  11. [Big-O](https://www.clear.rice.edu/comp160/data_cheat.html)
+  
 ------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
 
@@ -58,6 +78,10 @@
   3. [Host Intel](https://github.com/keithjjones/hostintel)
   
   4. [Threat Tracker](https://github.com/michael-yip/ThreatTracker)
+  
+### Bash 
+
+  1. [Explain Shell](https://explainshell.com/explain?cmd=iptables+-A+INPUT+-j+REJECT+--reject-with-icmp-host-prohibited)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -144,6 +168,14 @@
   1. [IPVN](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-8)
 
   2. [IPSEC-VPN](https://github.com/hwdsl2/setup-ipsec-vpn)
+  
+  3. [Build your own VPN](https://arstechnica.com/gadgets/2017/05/how-to-build-your-own-vpn-if-youre-rightfully-wary-of-commercial-options/3/)
+  
+  4. [OpenVPN Server on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-16-04)
+  
+### SSL
+
+  1. [Self Signed SSL Cert](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04)
 
 ### Malware Analysis
   1. [CyberSecurity Inventory](http://list.rawsec.ml/operating_systems.html)
@@ -275,9 +307,13 @@
   1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
 
   2. [PenTest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md)
+  
+  3. [Subnet Calculator](https://www.subnetonline.com/pages/subnet-calculators.php)
+  
+  4. [CIDR Calcualtor](http://www.subnet-calculator.com/cidr.php)
 
 ### Firewall
-  1. []()
+  1. [What is a Firewall and How Does it Work](https://www.digitalocean.com/community/tutorials/what-is-a-firewall-and-how-does-it-work)
   
   2. [China DNS poisoning](https://github.com/shadowsocks/ChinaDNS)
 
@@ -290,6 +326,8 @@
   6. [Learning more about GFW probing system](https://blog.torproject.org/learning-more-about-gfws-active-probing-system)
 
   7. [ScrambleSuite: A polymorph Network Protocol to Cirumvent Censorship](https://arxiv.org/pdf/1305.3199.pdf)
+  
+  8. [Firewall IPTables](https://n0where.net/how-does-it-work-iptables/)
 
 ### Security Onion
 
@@ -405,6 +443,8 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   3. [Tails](https://tails.boum.org/)
   
   4. [Linux Commands](https://github.com/tuwid/GNU-Linux-OpsWiki)
+  
+  5. [Linux Executable WalkThrough](https://i.imgur.com/q5nyHp7.png)
 
 ### Mobile OS
 
@@ -499,6 +539,10 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   9. [SCIM Part 3](https://tools.ietf.org/html/rfc7644)
 
   10. [OpenID](http://openid.net/connect/)
+  
+### Port
+
+  1. [Prot Number](https://www.gasmi.net/tcp.php)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -539,7 +583,7 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
   3. [Schema](http://schema.org/)
 
----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ### Unicode
 
@@ -552,25 +596,42 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-### Government Guidelines
+## Government Guidelines
 
   1. [HIPPA](http://www.mass.gov/anf/research-and-tech/cyber-security/security-for-state-employees/risk-assessment/risk-assessment-guideline.html)
 
 ## Learning
 [Open Tech Bookshelf](https://github.com/OpenTechSchool/bookshelf)
 
-# Red Team Operations
-[TradeCraft](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
+## Red Team Operations
+  1. [TradeCraft](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
 
-[More Red Team](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
+  2. [More Red Team](https://blog.cobaltstrike.com/2014/09/09/infrastructure-for-ongoing-red-team-operations/)
 
-[More Red Team](https://bluescreenofjeff.com/2017-05-02-red-teaming-for-pacific-rim-ccdc-2017/)
+  3. [More Red Team](https://bluescreenofjeff.com/2017-05-02-red-teaming-for-pacific-rim-ccdc-2017/)
 
-[MOre Red Team](https://bluescreenofjeff.com/2017-08-30-randomized-malleable-c2-profiles-made-easy/)
+  4. [MOre Red Team](https://bluescreenofjeff.com/2017-08-30-randomized-malleable-c2-profiles-made-easy/)
 
-[Red Team Stuff](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
+  5. [Red Team Stuff](https://blog.cobaltstrike.com/2015/09/30/advanced-threat-tactics-course-and-notes/)
+
+## Ham Radio
+
+  1. [BroadBand Hamnet](http://www.broadband-hamnet.org)
+
+  2. [Ham Wifi](https://hackaday.com/2016/07/02/ham-radio-wifi/)
+  
+  3. [Ham Radio Internet Gateways](http://www.eham.net/articles/8899)
+  
+  4. [Repeated Book](https://repeaterbook.com/row_repeaters/Display_SS.php?state_id=BG&band=%&freq=%&band6=%&loc=%&call=%&status_id=%&features=%&system=%&coverage=%&use=%)
+  
+  5. [Ham Mesh Network](http://oemcomm.org/ham-mesh-network-primer/)
+
 
 # Random
+
+[Broadhand Hamnet Tutorial](http://www.hotarc.org/mesh/)
+
+[Off Grid Internet](https://offgridsurvival.com/offgridinternet/)
 
 [Interesting Books](https://github.com/hackerkid/Mind-Expanding-Books)
 
@@ -589,3 +650,5 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 [Bio](https://github.com/lancelafontaine/bioinformatics-compbio-tools)
 
 [Cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies)
+
+[Get Internet access when government shuts it down](https://www.computerworld.com/article/2470311/government-it/get-internet-access-when-your-government-shuts-it-down.html)
