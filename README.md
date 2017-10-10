@@ -1,101 +1,184 @@
 # Research_Topics
+## CheatSheet 
+[Docker](https://github.com/wsargent/docker-cheat-sheet)
+
+
 
 ## Programming Languages
 
 ### C
-[Onion http server library](https://github.com/davidmoreno/onion)
+  1. [Onion http server library](https://github.com/davidmoreno/onion)
 
 ### Java
-[How do I add Tor to my Java Application](https://tor.stackexchange.com/questions/12546/how-to-add-tor-services-in-my-java-application)
+  1. [How do I add Tor to my Java Application](https://tor.stackexchange.com/questions/12546/how-to-add-tor-services-in-my-java-application)
 
-[WildFly](http://wildfly-swarm.io/)
+  2. [WildFly](http://wildfly-swarm.io/)
 
-[MIcroServer](https://github.com/aol/micro-server)
+  3. [MIcroServer](https://github.com/aol/micro-server)
 
-[Build Reactive application on JVM](http://vertx.io/)
+  4. [Build Reactive application on JVM](http://vertx.io/)
 
-[Framework for Building REST Services](https://github.com/airlift/airlift)
+  5. [Framework for Building REST Services](https://github.com/airlift/airlift)
 
-[Rest Framework](https://restlet.com/)
+  6. [Rest Framework](https://restlet.com/)
 
-[Spark](http://sparkjava.com/)
+  7. [Spark](http://sparkjava.com/)
 
-[RestCommander](https://github.com/eBay/restcommander)
+  8. [RestCommander](https://github.com/eBay/restcommander)
 
 ### Python 
-[Tornado Asyn Networking Library](http://www.tornadoweb.org/en/stable/)
+  1. [Tornado Asyn Networking Library](http://www.tornadoweb.org/en/stable/)
 
 ## Security 
 ### Tor
-[Tor](https://github.com/nextgens/Tor)
+  1. [Tor](https://github.com/nextgens/Tor)
 
-[Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
+  2. [Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
 
-[Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
+  3. [Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
 
-[Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
+  4. [Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
 
-[OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
+  5. [OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
 
-[Thali](http://thaliproject.org/)
+  6. [Thali](http://thaliproject.org/)
 
-[Tor Exit Node](http://torstatus.blutmagie.de/)
+  7. [Tor Exit Node](http://torstatus.blutmagie.de/)
 
-[Tor Node List](https://www.dan.me.uk/tornodes)
+  8. [Tor Node List](https://www.dan.me.uk/tornodes)
 
-[Onion Share](https://github.com/micahflee/onionshare)
+  9. [Onion Share](https://github.com/micahflee/onionshare)
 
 ### VPN
-[IPVN](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-8)
+  1. [IPVN](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-8)
 
-[IPSEC-VPN](https://github.com/hwdsl2/setup-ipsec-vpn)
+  2. [IPSEC-VPN](https://github.com/hwdsl2/setup-ipsec-vpn)
 
 
 ## Software
 ### Docker
-[Route Traffic through host with TOR Docker Container](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/)
+  1. [Route Traffic through host with TOR Docker Container](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/)
 
-[Setting Up Microservices](http://microservices.io/)
+  2. [Docker Training](https://training.docker.com/)
 
-[Better Explaination of Microservices](https://martinfowler.com/microservices/)
+  3. [More Docker Training](https://www.katacoda.com/)
 
-[Docker MicroServices Manager](https://www.weave.works/)
+  4. [Kubernetes](https://github.com/kubernetes/kubernetes)
 
-[Docker microservices](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/)
+  5. [Kubernets GitHub Rep](https://github.com/ramitsurana/awesome-kubernetes)
 
-[Access docker machine from android app](https://forums.docker.com/t/access-to-a-docker-machine-from-android-app/9148/2)
+  6. [Kubernets Tranining](http://k8s.info/cs.html)
 
-[MicroServices with Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+  7. [Docker Swarm](https://github.com/tpbowden/swarm-ingress-router)
+
+  8. [Setting Up Microservices](http://microservices.io/)
+
+  9. [Better Explaination of Microservices](https://martinfowler.com/microservices/)
+
+  10. [Docker MicroServices Manager](https://www.weave.works/)
+
+  11. [Docker microservices](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/)
+
+  12. [Access docker machine from android app](https://forums.docker.com/t/access-to-a-docker-machine-from-android-app/9148/2)
+
+  13. [MicroServices with Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
 
 ## Network
-[I2P](https://geti2p.net/en/download/debian#ubuntu)
+  1. [I2P](https://geti2p.net/en/download/debian#ubuntu)
 
-[Freenet](https://freenetproject.org/pages/documentation.html)
+  2. [Freenet](https://freenetproject.org/pages/documentation.html)
 
-[OpenVS](http://owp.softunity.com.ru/)
+  3. [OpenVS](http://owp.softunity.com.ru/)
 
-[BRO](https://hub.docker.com/r/blacktop/bro/)
+  4. [BRO](https://hub.docker.com/r/blacktop/bro/)
 
-[RouterSploit](https://github.com/reverse-shell/routersploit)
+  5. [RouterSploit](https://github.com/reverse-shell/routersploit)
 
 ### Server
-[Celery Distributed Task Queue](http://www.celeryproject.org/)
+1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
 
 ### Firewall
-[China DNS poisoning](https://github.com/shadowsocks/ChinaDNS)
+  2. [China DNS poisoning](https://github.com/shadowsocks/ChinaDNS)
 
-[PinPoint IP Address of Machine Working for Great Firewall of China](https://github.com/mothran/mongol)
+  3. [PinPoint IP Address of Machine Working for Great Firewall of China](https://github.com/mothran/mongol)
 
-[Proxy Software Great Firewall](https://github.com/yinghuocho/firefly-proxy)
+  4. [Proxy Software Great Firewall](https://github.com/yinghuocho/firefly-proxy)
 
-[How the Great Firewall of China is Blocking Tor](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)
+  5. [How the Great Firewall of China is Blocking Tor](https://www.usenix.org/system/files/conference/foci12/foci12-final2.pdf)
 
-[Learning more about GFW probing system](https://blog.torproject.org/learning-more-about-gfws-active-probing-system)
+  6. [Learning more about GFW probing system](https://blog.torproject.org/learning-more-about-gfws-active-probing-system)
 
-[ScrambleSuite: A polymorph Network Protocol to Cirumvent Censorship](https://arxiv.org/pdf/1305.3199.pdf)
+  7. [ScrambleSuite: A polymorph Network Protocol to Cirumvent Censorship](https://arxiv.org/pdf/1305.3199.pdf)
 
 
 ### Security Onion
+
+## OSINT(Open Source Intelligence)
+  1. [Autoshun](https://www.autoshun.org/)
+
+  2.[CyberTHreat Feeds](http://osint.bambenekconsulting.com/feeds/)
+
+  3.[Threat Intelligence Database](http://cinsscore.com/)
+
+  4.[Criticalstack](https://intel.criticalstack.com/)
+
+  5.[CyberCrime Tracker](http://cybercrime-tracker.net/)
+
+  6.[CyberCrime IP Feeds](https://iplists.firehol.org/)
+
+  7.[HPfeeds](https://github.com/rep/hpfeeds)
+
+  8.[Threat Database](http://malc0de.com/database/)
+
+  9.[Cyber Security Intelligence](https://threatrecon.co/)
+
+### Search Engine
+  1. [Phillippines](http://www.alleba.com/)
+  
+  2.[China](http://www.baidu.com/)
+  
+  3.[South Korea](https://www.daum.net/)
+  
+  4.[Sweden](https://www.eniro.se/)
+  
+  5.[Slovenia](http://www.najdi.si/)
+  
+  6.[IRan](http://www.parseek.com/)
+  
+  7.[Israel](https://www.walla.co.il/)
+  
+### Meta Search Engine 
+  1. [etools](http://www.etools.ch/)
+  
+  2. [dogpile](http://www.dogpile.com/)
+  
+  3. [Web Crawlwer](http://www.webcrawler.com/)
+  
+  4. [Wiinkz](https://www.wiinkz.com/)
+  
+  5. [Zapmeta](http://www.zapmeta.com/)
+## Malware Analysis
+
+## Android
+
+## IOT Hacks
+  1. [IOT Github rep](https://github.com/nebgnahz/awesome-iot-hacks)
+
+## Vulnerability Research
+
+## Security Attack / Information
+  1. [Fuzzing](https://labsblog.f-secure.com/2017/06/22/super-awesome-fuzzing-part-one/)
+
+  2. [Fuzzing From Apache](https://animal0day.blogspot.co.uk/2017/07/from-fuzzing-apache-httpd-server-to-cve.html)
+
+  3. [Case of Exception](https://www.corelan.be/index.php/2013/07/02/root-cause-analysis-integer-overflows/)
+
+  4. [Window Kernal](https://github.com/MortenSchenk/BHUSA2017/blob/master/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf)
+
+  5. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
+
+## X86
+
 
 ## Docker Container
 docker pull owasp/zap2docker-stable - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
@@ -132,40 +215,48 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 [Whonix](https://www.whonix.org/)
 
 ### Linux
-[Linux Kernal](https://github.com/xairy/linux-kernel-exploitation)
+  1. [Linux Kernal](https://github.com/xairy/linux-kernel-exploitation)
 
 ## MicroServices
-[What is a microservice](https://martinfowler.com/articles/microservices.html)
+  1. [What is a microservice](https://martinfowler.com/articles/microservices.html)
 
-[Microservice](https://content.pivotal.io/blog/how-to-talk-to-your-friends-about-microservices)
+  2. [Microservice](https://content.pivotal.io/blog/how-to-talk-to-your-friends-about-microservices)
 
-[Building Microservices](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4)
+  3. [Building Microservices](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4)
 
-[SoundCloud Microservice](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
+  4. [SoundCloud Microservice](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 
-[12 Factors](https://12factor.net/)
+  5. [12 Factors](https://12factor.net/)
 
 ## Standard / Codes
-[W3C](https://www.w3.org/TR/webarch/)
+  1. [W3C](https://www.w3.org/TR/webarch/)
+
+  2. [Common Vulnerabilities and Exposures](https://cve.mitre.org/)
+
+  3. [Common Weakness Enumberation](https://cwe.mitre.org/)
+
+  4. [Common Vulnerabiity Scoring System](https://www.first.org/cvss/)
+
+  5. [ISO](https://www.iso.org/standard/45170.html)
 
 ### RFC 
-[Uniform Resource Identifier (URI)](https://tools.ietf.org/html/rfc3986)
+  1. [Uniform Resource Identifier (URI)](https://tools.ietf.org/html/rfc3986)
 
-[URI Template](https://tools.ietf.org/html/rfc6570)
+  2. [URI Template](https://tools.ietf.org/html/rfc6570)
 
-[URI Design and Ownership](https://tools.ietf.org/html/rfc7320)
+  3. [URI Design and Ownership](https://tools.ietf.org/html/rfc7320)
 
-[HTTP](https://tools.ietf.org/html/rfc7230)
+  4. [HTTP](https://tools.ietf.org/html/rfc7230)
 
-[HTTP Semantics and COntent](https://tools.ietf.org/html/rfc7231)
+  5. [HTTP Semantics and COntent](https://tools.ietf.org/html/rfc7231)
 
-[HTTP Requests](https://tools.ietf.org/html/rfc7232)
+  6. [HTTP Requests](https://tools.ietf.org/html/rfc7232)
 
-[HTTP Range Requests](https://tools.ietf.org/html/rfc7233)
+  7. [HTTP Range Requests](https://tools.ietf.org/html/rfc7233)
 
-[HTTP Caching](https://tools.ietf.org/html/rfc7234)
+  8. [HTTP Caching](https://tools.ietf.org/html/rfc7234)
 
-[HTTP Authentication](https://tools.ietf.org/html/rfc7235)
+  9. [HTTP Authentication](https://tools.ietf.org/html/rfc7235)
 
-[HTTP/2](https://tools.ietf.org/html/rfc7540)
+  10. [HTTP/2](https://tools.ietf.org/html/rfc7540)
 
