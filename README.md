@@ -1,9 +1,9 @@
 # Research_Topics
+
 ## CheatSheet 
 [Docker](https://github.com/wsargent/docker-cheat-sheet)
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
 
 ### C
@@ -28,6 +28,8 @@
 
 ### Python 
   1. [Tornado Asyn Networking Library](http://www.tornadoweb.org/en/stable/)
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## Security 
 ### Tor
@@ -54,6 +56,33 @@
 
   2. [IPSEC-VPN](https://github.com/hwdsl2/setup-ipsec-vpn)
 
+## Malware Analysis
+[CyberSecurity Inventory](http://list.rawsec.ml/operating_systems.html)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+## IOT Hacks
+  1. [IOT Github rep](https://github.com/nebgnahz/awesome-iot-hacks)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+## Vulnerability Research
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+## Security Attack / Information
+  1. [Fuzzing](https://labsblog.f-secure.com/2017/06/22/super-awesome-fuzzing-part-one/)
+
+  2. [Fuzzing From Apache](https://animal0day.blogspot.co.uk/2017/07/from-fuzzing-apache-httpd-server-to-cve.html)
+
+  3. [Case of Exception](https://www.corelan.be/index.php/2013/07/02/root-cause-analysis-integer-overflows/)
+
+  4. [Window Kernal](https://github.com/MortenSchenk/BHUSA2017/blob/master/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf)
+
+  5. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## Software
 ### Docker
@@ -82,7 +111,7 @@
   12. [Access docker machine from android app](https://forums.docker.com/t/access-to-a-docker-machine-from-android-app/9148/2)
 
   13. [MicroServices with Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
-
+-----------------------------------------------------------------------------------------
 ## Network
   1. [I2P](https://geti2p.net/en/download/debian#ubuntu)
 
@@ -94,8 +123,10 @@
 
   5. [RouterSploit](https://github.com/reverse-shell/routersploit)
 
+
 ### Server
 1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
+
 
 ### Firewall
   2. [China DNS poisoning](https://github.com/shadowsocks/ChinaDNS)
@@ -110,8 +141,10 @@
 
   7. [ScrambleSuite: A polymorph Network Protocol to Cirumvent Censorship](https://arxiv.org/pdf/1305.3199.pdf)
 
-
 ### Security Onion
+
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## OSINT(Open Source Intelligence)
   1. [Autoshun](https://www.autoshun.org/)
@@ -132,6 +165,8 @@
 
   9.[Cyber Security Intelligence](https://threatrecon.co/)
 
+---------------------------------------------------------------------------------------------------------------------------------
+
 ### Search Engine
   1. [Phillippines](http://www.alleba.com/)
   
@@ -146,7 +181,9 @@
   6.[IRan](http://www.parseek.com/)
   
   7.[Israel](https://www.walla.co.il/)
-  
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 ### Meta Search Engine 
   1. [etools](http://www.etools.ch/)
   
@@ -157,28 +194,14 @@
   4. [Wiinkz](https://www.wiinkz.com/)
   
   5. [Zapmeta](http://www.zapmeta.com/)
-## Malware Analysis
 
+---------------------------------------------------------------------------------------------------------------------------------
 ## Android
-
-## IOT Hacks
-  1. [IOT Github rep](https://github.com/nebgnahz/awesome-iot-hacks)
-
-## Vulnerability Research
-
-## Security Attack / Information
-  1. [Fuzzing](https://labsblog.f-secure.com/2017/06/22/super-awesome-fuzzing-part-one/)
-
-  2. [Fuzzing From Apache](https://animal0day.blogspot.co.uk/2017/07/from-fuzzing-apache-httpd-server-to-cve.html)
-
-  3. [Case of Exception](https://www.corelan.be/index.php/2013/07/02/root-cause-analysis-integer-overflows/)
-
-  4. [Window Kernal](https://github.com/MortenSchenk/BHUSA2017/blob/master/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf)
-
-  5. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
 
 ## X86
 
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## Docker Container
 docker pull owasp/zap2docker-stable - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
@@ -209,13 +232,24 @@ docker pull citizenstig/nowasp - [OWASP Mutillidae II Web Pen-Test Practice Appl
 
 docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
 
+---------------------------------------------------------------------------------------------------------------------------------
+
 ## Reverse Engineering
+
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## Operating Systems
 [Whonix](https://www.whonix.org/)
 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 ### Linux
   1. [Linux Kernal](https://github.com/xairy/linux-kernel-exploitation)
+
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## MicroServices
   1. [What is a microservice](https://martinfowler.com/articles/microservices.html)
@@ -228,6 +262,7 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
   5. [12 Factors](https://12factor.net/)
 
+---------------------------------------------------------------------------------------------------------------------------------
 ## Standard / Codes
   1. [W3C](https://www.w3.org/TR/webarch/)
 
@@ -239,6 +274,7 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
   5. [ISO](https://www.iso.org/standard/45170.html)
 
+---------------------------------------------------------------------------------------------------------------------------------
 ### RFC 
   1. [Uniform Resource Identifier (URI)](https://tools.ietf.org/html/rfc3986)
 
@@ -259,4 +295,5 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   9. [HTTP Authentication](https://tools.ietf.org/html/rfc7235)
 
   10. [HTTP/2](https://tools.ietf.org/html/rfc7540)
+---------------------------------------------------------------------------------------------------------------------------------
 
