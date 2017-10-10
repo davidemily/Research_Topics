@@ -119,7 +119,7 @@
 ### IDS
   1. Snort
     
-    [Snort](https://www.snort.org)
+    a. [Snort](https://www.snort.org)
 
 ### Secure Email
   1. [Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
