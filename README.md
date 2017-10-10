@@ -119,7 +119,7 @@
 ### IDS
   1. Snort
     
-    [Snort](https://www.snort.org)
+  [Snort](https://www.snort.org)
 
 ### Secure Email
   1. [Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
@@ -193,53 +193,53 @@
 ### Docker
   1. Training
     
-    [Docker Training](https://training.docker.com/)
+  [Docker Training](https://training.docker.com/)
     
-    [More Docker Training](https://www.katacoda.com/)
+  [More Docker Training](https://www.katacoda.com/)
     
-    [Access docker machine from android app](https://forums.docker.com/t/access-to-a-docker-machine-from-android-app/9148/2)
+  [Access docker machine from android app](https://forums.docker.com/t/access-to-a-docker-machine-from-android-app/9148/2)
     
   2. Tor
   
-    [Route Traffic through host with TOR Docker Container](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/)
+  [Route Traffic through host with TOR Docker Container](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/)
     
-    [Tor Relay with Docker](https://blog.jessfraz.com/post/running-a-tor-relay-with-docker/)
+  [Tor Relay with Docker](https://blog.jessfraz.com/post/running-a-tor-relay-with-docker/)
     
-    [Docker container Tor](https://www.arulraj.net/2015/05/docker-container-for-tor-with-privoxy.html)
+  [Docker container Tor](https://www.arulraj.net/2015/05/docker-container-for-tor-with-privoxy.html)
     
-    [Create a Bridge and Shared Network](https://coderwall.com/p/2rpbba/docker-create-a-bridge-and-shared-network)
+  [Create a Bridge and Shared Network](https://coderwall.com/p/2rpbba/docker-create-a-bridge-and-shared-network)
 
   3. Microservices
     
-    [Better Explaination of Microservices](https://martinfowler.com/microservices/)
+  [Better Explaination of Microservices](https://martinfowler.com/microservices/)
   
-    [Kubernets Tranining](http://k8s.info/cs.html)
+  [Kubernets Tranining](http://k8s.info/cs.html)
     
-    [Kubernetes](https://github.com/kubernetes/kubernetes)
+  [Kubernetes](https://github.com/kubernetes/kubernetes)
     
-    [Kubernets GitHub Rep](https://github.com/ramitsurana/awesome-kubernetes)
+  [Kubernets GitHub Rep](https://github.com/ramitsurana/awesome-kubernetes)
     
-    [Setting Up Microservices](http://microservices.io/)
+  [Setting Up Microservices](http://microservices.io/)
     
-    [Docker MicroServices Manager](https://www.weave.works/)
+  [Docker MicroServices Manager](https://www.weave.works/)
     
-    [Docker microservices](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/)
+  [Docker microservices](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/)
     
-    [MicroServices with Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+  [MicroServices with Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
     
-    [What is a microservice](https://martinfowler.com/articles/microservices.html)
+  [What is a microservice](https://martinfowler.com/articles/microservices.html)
 
-    [Microservice](https://content.pivotal.io/blog/how-to-talk-to-your-friends-about-microservices)
+  [Microservice](https://content.pivotal.io/blog/how-to-talk-to-your-friends-about-microservices)
 
-    [Building Microservices](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4)
+  [Building Microservices](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4)
 
-    [SoundCloud Microservice](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
+  [SoundCloud Microservice](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 
-    [12 Factors](https://12factor.net/)
+  [12 Factors](https://12factor.net/)
     
   4. Swarm
     
-    [Docker Swarm](https://github.com/tpbowden/swarm-ingress-router)
+  [Docker Swarm](https://github.com/tpbowden/swarm-ingress-router)
 -----------------------------------------------------------------------------------------
 ## Network
   1. [I2P](https://geti2p.net/en/download/debian#ubuntu)
