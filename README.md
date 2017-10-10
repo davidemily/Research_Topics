@@ -1,16 +1,18 @@
 # Research_Topics
 
 ## Algorithms
+
 ### [Algorithm Github](https://github.com/tayllan/awesome-algorithms)
 
 ## CheatSheet 
 [Docker](https://github.com/wsargent/docker-cheat-sheet)
+
 [***Great Cheat Sheet Reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cheat%20sheets%20reference%20pages%20Checklists%20-.md)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
 
-## Android
+### Android
 [Android GitHub Repo](https://github.com/Jackgris/awesome-android)
 
 [Android GitHub Repo 2](https://github.com/JStumpp/awesome-android)
@@ -18,7 +20,7 @@
 [Mobile Security](https://github.com/OWASP/owasp-mstg)
 [Android Opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 
-## X86
+### X86
 
 ### C
   1. [Onion http server library](https://github.com/davidmoreno/onion)
@@ -84,27 +86,26 @@
   4. 
 ### Anonymizers
   1. Tor
-    1. [Tor](https://github.com/nextgens/Tor)
+    a. [Tor](https://github.com/nextgens/Tor)
 
-    2. [Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
+    b. [Tor Netowrk Tutorial](https://deeponion.org/community/threads/deep-onion-tor-tutorial-how-tor-network-works-and-deep-onion-client-connects.544/)
 
-    3. [Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
+    c. [Tor Gateway VM (BitBucket)](https://bitbucket.org/ra_/tor-gateway/src)
 
-    4. [Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
+    d. [Subgraph Tor Library](https://subgraph.com/orchid/running/index.en.html)
 
-    5. [OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
+    e. [OverView of Tor Orchid](http://www.kitploit.com/2013/12/orchid-tor-client-for-java.html)
 
-    6. [Thali](http://thaliproject.org/)
+    f. [Thali](http://thaliproject.org/)
 
-    7. [Tor Exit Node](http://torstatus.blutmagie.de/)
+    g. [Tor Exit Node](http://torstatus.blutmagie.de/)
 
-    8. [Tor Node List](https://www.dan.me.uk/tornodes)
+    h. [Tor Node List](https://www.dan.me.uk/tornodes)
 
-    9. [Onion Share](https://github.com/micahflee/onionshare)
+    i. [Onion Share](https://github.com/micahflee/onionshare)
 
-    10. [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
-
-  2. 
+    j. [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
+ 
 ### VPN
   1. [IPVN](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-8)
 
@@ -121,9 +122,8 @@
   
 ### Low Level Attacks
 [*** Look Through this Github](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/BIOS%20UEFI%20Attacks%20Defenses.md)
-[***Embedded System](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Embedded%20Device%20%26%20Hardware%20Hacking%20-.md)
 
-[]()
+[***Embedded System](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Embedded%20Device%20%26%20Hardware%20Hacking%20-.md)
 
 ### Car Hacking
 [***Need to sort this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Car%20Hacking.md)
@@ -155,6 +155,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Software
+
 ### Docker
   1. [Route Traffic through host with TOR Docker Container](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/)
 
@@ -335,11 +336,11 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Operating Systems
-[Whonix](https://www.whonix.org/)
+  1. [Whonix](https://www.whonix.org/)
 
-[Caine](http://www.caine-live.net/)
+  2. [Caine](http://www.caine-live.net/)
 
-[Tails](https://tails.boum.org/)
+  3. [Tails](https://tails.boum.org/)
 
 ### Mobile OS
 
@@ -404,56 +405,56 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   
 ---------------------------------------------------------------------------------------------------------------------------------
 ### CoAP
-[Web Transfer Protocol RFC 7252]()
+  1. [Web Transfer Protocol RFC 7252]()
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ### RPC
-[BERT-RPC 1.0]()
+  1. [BERT-RPC 1.0]()
 
-[JSON-RPC 2.0]()
+  2. [JSON-RPC 2.0]()
 ---------------------------------------------------------------------------------------------------------------------------------
 ### Messaging
-[Advancd Message Queing Protocol]()
+  1. [Advancd Message Queing Protocol]()
 
-[MQ Telemetry Transport]()
+  2. [MQ Telemetry Transport]()
 
-[Simplet Text Oriented Messageing Protocol]()
+  3. [Simplet Text Oriented Messageing Protocol]()
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ### Security
 
-[TLS](https://tools.ietf.org/html/rfc5246)
+  1. [TLS](https://tools.ietf.org/html/rfc5246)
 
-[TLS Extension](https://tools.ietf.org/html/rfc6066)
+  2. [TLS Extension](https://tools.ietf.org/html/rfc6066)
 
-[Datagram Transport Layer](https://tools.ietf.org/html/rfc6347)
+  3. [Datagram Transport Layer](https://tools.ietf.org/html/rfc6347)
 
-[oAuth](https://tools.ietf.org/html/rfc6749)
+  4. [oAuth](https://tools.ietf.org/html/rfc6749)
 
-[JSon Web Signature](https://tools.ietf.org/html/rfc7515)
+  5. [JSon Web Signature](https://tools.ietf.org/html/rfc7515)
 
-[JSON Web Token](https://tools.ietf.org/html/rfc7519)
+  6. [JSON Web Token](https://tools.ietf.org/html/rfc7519)
 
-[SCIM](https://tools.ietf.org/html/rfc7642)
+  7. [SCIM](https://tools.ietf.org/html/rfc7642)
 
-[SCIM Part2](https://tools.ietf.org/html/rfc7643)
+  8. [SCIM Part2](https://tools.ietf.org/html/rfc7643)
 
-[SCIM Part 3](https://tools.ietf.org/html/rfc7644)
+  9. [SCIM Part 3](https://tools.ietf.org/html/rfc7644)
 
-[OpenID](http://openid.net/connect/)
+  10. [OpenID](http://openid.net/connect/)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 ### Service Discovery
-[HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)
+  1. [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)
 
-[Hydra](http://www.hydra-cg.com/)
+  2. [Hydra](http://www.hydra-cg.com/)
 
-[GraphQL](http://graphql.org/)
+  3. [GraphQL](http://graphql.org/)
 
-[WADL]()
+  4. [WADL]()
 
-[WSDL]()
+  5. [WSDL]()
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -473,20 +474,21 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
 [Universal Binary Json Specification](http://ubjson.org/)
 
+
 ### Schema
-[JSON Schema](http://json-schema.org/)
+  1. [JSON Schema](http://json-schema.org/)
 
-[LOV](http://lov.okfn.org/dataset/lov/)
+  2. [LOV](http://lov.okfn.org/dataset/lov/)
 
-[Schema](http://schema.org/)
+  3. [Schema](http://schema.org/)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ### Unicode
 
-[Unicde 8.0.0](http://www.unicode.org/versions/Unicode8.0.0/)
+  1. [Unicde 8.0.0](http://www.unicode.org/versions/Unicode8.0.0/)
 
-[UTF-8 Transformation format of ISO 10646](https://tools.ietf.org/html/rfc3629)
+  2. [UTF-8 Transformation format of ISO 10646](https://tools.ietf.org/html/rfc3629)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
