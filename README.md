@@ -427,6 +427,8 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   5. [HTTP Caching](https://tools.ietf.org/html/rfc7234)
 
   6. [HTTP Authentication](https://tools.ietf.org/html/rfc7235)
+  
+  7. [Protocols](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)
  
 ---------------------------------------------------------------------------------------------------------------------------------
   
