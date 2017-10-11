@@ -185,7 +185,24 @@
   
   7. [Psiphon](https://psiphon3.com/en/index.html)
   
+  8. [Setting Up Secure OpenVPN](https://xipherzero.com/setup-openvpn-ubuntu-server/)
+  
+  9. [Easy Install OpenVPN](https://www.ostechnix.com/easiest-way-install-configure-openvpn-server-linux/)
+  
+  10. [Hak5 OpenVPN](https://www.youtube.com/watch?v=XcsQdtsCS1U&t=320s)
+  
+  11. [OpenVPN Setup](https://www.hugeserver.com/kb/how-to-config-openvpn-ubuntu-debian/)
+  
+  12. [SSD OpenVPN](http://blog.ssdnodes.com/blog/tutorial-installing-openvpn-on-ubuntu-16.04)
+  
+  13. [Easy OpenVPN](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
+
+  14. [OpenVPN Install](https://wiseindy.com/it/install-openvpn-ubuntu-1404/)
+
+  15. [Client Server OpenVPN](https://www.debyum.com/easily-setup-openvpn-in-ubuntu-ubutnu-16-04/)
+
 ### SSL
+
 
 
   1. [OpenSSL](https://www.openssl.org)
@@ -316,6 +333,10 @@
   13. [NAT](https://www.ietf.org/rfc/rfc1631.txt)
   
   14. [Socks](https://www.ietf.org/rfc/rfc1928.txt)
+  
+## Raspberry PI
+
+  1. [PI-Hole](https://www.cyberciti.biz/faq/ubuntu-linux-install-pi-hole-with-a-openvpn/)
 
 ### Wireless Networks
 [**Need to sort through this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless%20Networks%20%26%20RF.md)
