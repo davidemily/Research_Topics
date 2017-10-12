@@ -93,7 +93,9 @@
 
 
 ------------------------------------------------------------------------------------------------------------------------------
-##
+## Social
+
+  1. [Social](https://github.com/v2-dev/awesome-social-engineering)
 ------------------------------------------------------------------------------------------------------------------------------
 ## Data Mining
   1. [Basic Data Jouralist ToolBox](https://github.com/basilesimon/datajournalists-toolbox)
@@ -230,6 +232,38 @@
   
   4. [RISIQ](https://community.riskiq.com/)
   
+  5. [*** Git Repo](https://github.com/topics/malware-analysis)
+  
+### Threat Sharing
+
+  1. [Malware information sharing platform](https://github.com/MISP/MISP)
+  
+  2. [*** Git Repo](https://github.com/topics/threat-sharing)
+  
+  3. [*** Git Repo](https://github.com/topics/threatintel)
+    
+### Threat Analysis
+    
+  1. [****GitHub Page](https://github.com/topics/threat-analysis)
+  
+### Fraud Prevention
+
+  1. [**** Git Repo](https://github.com/topics/fraud-prevention)
+  
+### Fraud Detection
+
+  1. [*** Git Repo](https://github.com/topics/fraud-detection)
+  
+### Threat Hunting
+
+  1. [*** Git Repo](https://github.com/topics/threat-hunting)
+  
+### Information sharing
+
+  1. [*** Git Repo](https://github.com/topics/information-sharing)
+  
+  2. [*** Git Repo](https://github.com/topics/intelligence)
+  
 ### Low Level Attacks
 [*** Look Through this Github](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/BIOS%20UEFI%20Attacks%20Defenses.md)
 
@@ -263,14 +297,7 @@
 
   6. [Emerging Threats](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)
   
-  ## Malware
-  
-    1. Threats
-    [Malware information sharing platform](https://github.com/MISP/MISP)
-    
-  ## Threat Analysis
-    
-    1. [****GitHub Page](https://github.com/topics/threat-analysis)
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## Software
@@ -442,6 +469,8 @@
   16. [ArcReactor](https://github.com/deadbits/arcreactor)
   
   17. [Spiderfoot](http://www.spiderfoot.net/)
+  
+  18. [*** Git Repo ***GOOD](https://github.com/IVMachiavelli/OSINT_Team_Links)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -756,4 +785,70 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
 [Reference List](https://github.com/topics/infosec-reference)
 
-[Threat Sharing](https://github.com/topics/threat-sharing)
+
+[TIPS](https://github.com/topics/tip)
+
+https://github.com/juansacco/exploitpack
+
+https://github.com/EdOverflow/bugbounty-cheatsheet
+
+https://dradisframework.com/ce/
+
+https://github.com/topics/hipaa
+
+https://github.com/Fuzzapi/API-fuzzer
+
+https://github.com/topics/vulnerability-assessment
+
+https://github.com/topics/vulnerability-detection
+
+https://github.com/topics/devops
+
+https://bestpractices.coreinfrastructure.org/projects/96
+
+https://github.com/PaulSec/awesome-windows-domain-hardening
+
+https://github.com/konstruktoid/hardening
+
+https://github.com/SwiftOnLinux/SmokingLinuxEveryDay
+
+https://github.com/DenizParlak/Zephyrus
+
+https://github.com/topics/threat
+
+https://github.com/topics/concept
+
+https://github.com/topics/letters
+
+https://github.com/opacapp/opacclient
+
+https://github.com/gfranzini/digEds_cat
+
+https://github.com/topics/digital-edition
+
+https://github.com/topics/digital-edition
+
+https://github.com/Mermade/openapi-definitions
+
+https://github.com/cassiobotaro/awesome-python-modules-as-script
+
+https://github.com/cdli-gh/data
+
+https://github.com/topics/linked-open-data
+
+https://github.com/OpenTNF/opentnf
+
+https://github.com/OpenSCAP/openscap
+
+https://github.com/coruus/nist-testvectors
+
+https://github.com/kravietz/nist-sts
+
+https://github.com/matthewdgreen/nistfoia
+
+https://github.com/star-is-here/tutorial_nist_nvd
+
+
+https://github.com/mcgonagle/puppet_nist
+
+https://github.com/topics/nist
