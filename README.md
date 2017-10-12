@@ -85,6 +85,8 @@
   
   4. [Threat Tracker](https://github.com/michael-yip/ThreatTracker)
   
+  5. [Fake AP](https://github.com/xdavidhu/mitmAP)
+  
 ### Bash 
 
   1. [Explain Shell](https://explainshell.com/explain?cmd=iptables+-A+INPUT+-j+REJECT+--reject-with-icmp-host-prohibited)
@@ -148,6 +150,15 @@
   
 ### IDS
   1. Snort
+ 
+### Kubernetes
+  1. [Kubernets Main Site](https://kubernetes.io/)
+  
+  2. [Rancher Manage Kubernets with Containers](http://rancher.com/)
+  
+  3. [Kubernets Githud](https://github.com/hobby-kube/guide)
+  
+  4. [Kubernets GitHub](https://github.com/ramitsurana/awesome-kubernetes)
     
   [Snort](https://www.snort.org)
 
@@ -200,6 +211,8 @@
   14. [OpenVPN Install](https://wiseindy.com/it/install-openvpn-ubuntu-1404/)
 
   15. [Client Server OpenVPN](https://www.debyum.com/easily-setup-openvpn-in-ubuntu-ubutnu-16-04/)
+  
+  16. [OpenVPN 30 sec setup](https://github.com/alaa/oh-my-vpn)
 
 ### SSL
 
@@ -249,6 +262,15 @@
   5. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
 
   6. [Emerging Threats](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)
+  
+  ## Malware
+  
+    1. Threats
+    [Malware information sharing platform](https://github.com/MISP/MISP)
+    
+  ## Threat Analysis
+    
+    1. [****GitHub Page](https://github.com/topics/threat-analysis)
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## Software
@@ -281,6 +303,10 @@
   [Kubernetes](https://github.com/kubernetes/kubernetes)
     
   [Kubernets GitHub Rep](https://github.com/ramitsurana/awesome-kubernetes)
+  
+  [Docker Kubernets](https://github.com/kubernetes/kompose)
+  
+  []
     
   [Setting Up Microservices](http://microservices.io/)
     
@@ -299,6 +325,7 @@
   [SoundCloud Microservice](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 
   [12 Factors](https://12factor.net/)
+  
     
   4. Swarm
     
@@ -344,6 +371,10 @@
 ### Cloud Computing
 
   1. [Cloud Computing Conferences](http://stefan-kolb.github.io/cloud-conferences/)
+  
+### Router
+
+  1. [Router Exploit](https://github.com/reverse-shell/routersploit)
 
 ### Server
   
@@ -409,6 +440,8 @@
   15. [**OSINT GitHUB Repo](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Open%20Source%20Intelligence.md)
 
   16. [ArcReactor](https://github.com/deadbits/arcreactor)
+  
+  17. [Spiderfoot](http://www.spiderfoot.net/)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -479,6 +512,8 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## Operating Systems
+
+### Linux Based
   1. [Whonix](https://www.whonix.org/)
 
   2. [Caine](http://www.caine-live.net/)
@@ -490,6 +525,9 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   5. [Linux Executable WalkThrough](https://i.imgur.com/q5nyHp7.png)
   
   6. [Linux Kernal](https://github.com/torvalds/linux)
+  
+### Unix
+  1. [Mac Setup](http://sourabhbajaj.com/mac-setup/)
 
 ### Mobile OS
 
@@ -699,3 +737,23 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 [Get Internet access when government shuts it down](https://www.computerworld.com/article/2470311/government-it/get-internet-access-when-your-government-shuts-it-down.html)
 
 [Cool Network Stuff](https://github.com/briatte/awesome-network-analysis)
+
+[QuickBox](https://quickbox.io/)
+
+[Fabsetup](https://github.com/theno/fabsetup)
+
+[KeyBase File System](https://github.com/keybase/kbfs)
+
+[Awesome Stuff](https://github.com/emijrp/awesome-awesome)
+
+[Security Audit](https://cisofy.com/lynis/)
+
+[InfoSec Github](https://github.com/onlurking/awesome-infosec)
+
+[Kick people off network](https://nikolaskama.me/kickthemoutproject/)
+
+[Info Sec Reference 2](https://github.com/rmusser01/Infosec_Reference)
+
+[Reference List](https://github.com/topics/infosec-reference)
+
+[Threat Sharing](https://github.com/topics/threat-sharing)
