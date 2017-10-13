@@ -8,31 +8,85 @@
   1. [Docker](https://github.com/wsargent/docker-cheat-sheet)
 
   2. [***Great Cheat Sheet Reference](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Cheat%20sheets%20reference%20pages%20Checklists%20-.md)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+### Linux
   
-  3. [Security Onion](http://chrissanders.org/SO-CheatSheet.pdf)
+  1. [Linux Command](http://www.pixelbeat.org/cmdline.html)
   
-  4. [Linux Command](http://www.pixelbeat.org/cmdline.html)
+  2. [Linux Command PT1](http://www.unixguide.net/linux/linuxshortcuts.shtml)
   
-  5. [Linux Command PT1](http://www.unixguide.net/linux/linuxshortcuts.shtml)
+  3. [LInxy System Call Table](http://www.informatik.htw-dresden.de/%7Ebeck/ASM/syscall_list.html)
   
-  6. [HardWare Pictures](https://sonic840.deviantart.com/art/Computer-hardware-poster-1-7-111402099)
+  4. [Security Onion](http://chrissanders.org/SO-CheatSheet.pdf)
   
-  7. [X86](http://www.jegerlehner.ch/intel/IntelCodeTable.pdf)
+  5. [Linux Base Commands Interesting](https://highon.coffee/blog/linux-commands-cheat-sheet/#breaking-out-of-limited-shells)
   
-  8. [Apache](http://www.petefreitag.com/cheatsheets/apache/)
+------------------------------------------------------------------------------------------------------------------------------
+
+### X86
+
+  1. [X86](http://www.jegerlehner.ch/intel/IntelCodeTable.pdf)
   
-  9. [Java Collection CheatSheet](http://www.sergiy.ca/guide-to-selecting-appropriate-map-collection-in-java/)
+  2. [X86 opcode](http://pnx.tf/files/x86_opcode_structure_and_instruction_overview.pdf)
   
-  10. [DataStructure CheatSheet](https://sinon.org/algorithms/#data-structures)
+  3. [x86 Calling Conventions](http://codearcana.com/posts/2013/05/21/a-brief-introduction-to-x86-calling-conventions.html)
   
-  11. [DataStructure CheatSheet PT.1](https://www.clear.rice.edu/comp160/data_cheat.html)
+------------------------------------------------------------------------------------------------------------------------------
+
+### DataStructure
+
+  1. [DataStructure CheatSheet](https://sinon.org/algorithms/#data-structures)
   
-  11. [Big-O](https://www.clear.rice.edu/comp160/data_cheat.html)
+  2. [DataStructure CheatSheet PT.1](https://www.clear.rice.edu/comp160/data_cheat.html)
   
-  12. [Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)
+  3. [Big-O](https://www.clear.rice.edu/comp160/data_cheat.html)
   
-  13. [Packet Cheat Sheet](http://packetlife.net/library/cheat-sheets/)
+------------------------------------------------------------------------------------------------------------------------------
+
+### Unix 
+
+  1.  [Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+### Apache
+
+  1. [Apache](http://www.petefreitag.com/cheatsheets/apache/)
+
+------------------------------------------------------------------------------------------------------------------------------
   
+### Nmap
+
+  1. [Nmap](https://highon.coffee/blog/nmap-cheat-sheet/)
+  
+------------------------------------------------------------------------------------------------------------------------------
+
+### PenTest Cheat Sheet
+
+  1. [PenTest Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+
+  2. [HardWare Pictures](https://sonic840.deviantart.com/art/Computer-hardware-poster-1-7-111402099)
+  
+------------------------------------------------------------------------------------------------------------------------------
+  
+### Java
+  
+  1. [Java Collection CheatSheet](http://www.sergiy.ca/guide-to-selecting-appropriate-map-collection-in-java/)
+  
+------------------------------------------------------------------------------------------------------------------------------
+  
+### Network
+  1. [Packet Cheat Sheet](http://packetlife.net/library/cheat-sheets/)
+  
+------------------------------------------------------------------------------------------------------------------------------
+
+### Windows
+
+  1. [Windows Startup Application](http://www.pacs-portal.co.uk/startup_content.php)
+  
+  2. [Windows Privilege Escalation](http://it-ovid.blogspot.fr/2012/02/windows-privilege-escalation.html)
 ------------------------------------------------------------------------------------------------------------------------------
 ## Programming Languages
 
@@ -53,6 +107,11 @@
   2. [X86 Resource](https://notes.shichao.io/asm/#hello-world-example)
 
   3. [X86 Resourece pt1](http://www.tldp.org/HOWTO/Assembly-HOWTO/index.html)
+  
+  4. [NASM](https://www.cs.uaf.edu/2006/fall/cs301/support/x86/)
+  
+  5. [Packet File Descriptors](http://www.garykessler.net/library/file_sigs.html)
+  
 
 ### C
   1. [Onion http server library](https://github.com/davidmoreno/onion)
@@ -75,6 +134,10 @@
   8. [RestCommander](https://github.com/eBay/restcommander)
   
   9. [Add Tor to Java Application](https://tor.stackexchange.com/questions/12546/how-to-add-tor-services-in-my-java-application)
+  
+### Memory Forensics 
+
+  1. [Memory](http://forensicmethods.com/wp-content/uploads/2012/04/Memory-Forensics-Cheat-Sheet-v1.pdf)
 
 ### Python 
   1. [Tornado Asyn Networking Library](http://www.tornadoweb.org/en/stable/)
@@ -652,6 +715,8 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
 
   10. [OpenID](http://openid.net/connect/)
   
+  11. []()
+  
 ### Port
 
   1. [Prot Number](https://www.gasmi.net/tcp.php)
@@ -713,7 +778,14 @@ docker pull bkimminich/juice-shop -[Juice Shop](https://github.com/bkimminich/ju
   1. [HIPPA](http://www.mass.gov/anf/research-and-tech/cyber-security/security-for-state-employees/risk-assessment/risk-assessment-guideline.html)
 
 ## Learning
-[Open Tech Bookshelf](https://github.com/OpenTechSchool/bookshelf)
+
+  1. Books 
+  
+  [Open Tech Bookshelf](https://github.com/OpenTechSchool/bookshelf)
+  
+  2. Certifications
+  
+  [GIAC](https://www.giac.org/paper/gpen/6684/aix-penetration-testers/125890)
 
 ## Red Team Operations
   1. [TradeCraft](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
