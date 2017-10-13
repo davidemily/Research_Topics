@@ -153,6 +153,10 @@
   
   13. [Exective Order](https://github.com/chrisengelsma/executive_orders)
   
+  14. [VirusAPI](https://www.virustotal.com/en/documentation/public-api/)
+  
+  15. [FCC ID search](https://www.fcc.gov/oet/ea/fccid)
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 # Programming Languages
@@ -174,19 +178,12 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-### X86
+### Bash 
 
 -----------------------------------------------------------------------------------------------------------------------------
-  1. [Interrupt Instruction](http://ctyme.com/rbrown.htm)
 
-  2. [X86 Resource](https://notes.shichao.io/asm/#hello-world-example)
+  1. [Explain Shell](https://explainshell.com/explain?cmd=iptables+-A+INPUT+-j+REJECT+--reject-with-icmp-host-prohibited)
 
-  3. [X86 Resourece pt1](http://www.tldp.org/HOWTO/Assembly-HOWTO/index.html)
-  
-  4. [NASM](https://www.cs.uaf.edu/2006/fall/cs301/support/x86/)
-  
-  5. [Packet File Descriptors](http://www.garykessler.net/library/file_sigs.html)
-  
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### C
@@ -237,6 +234,8 @@
   
   [MISP](https://github.com/MISP/PyMISP)
   
+  [pyteti](https://github.com/yeti-platform/pyeti)
+  
   
   1. [Tornado Asyn Networking Library](http://www.tornadoweb.org/en/stable/)
 
@@ -250,12 +249,19 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-### Bash 
+### X86
 
 -----------------------------------------------------------------------------------------------------------------------------
+  1. [Interrupt Instruction](http://ctyme.com/rbrown.htm)
 
-  1. [Explain Shell](https://explainshell.com/explain?cmd=iptables+-A+INPUT+-j+REJECT+--reject-with-icmp-host-prohibited)
+  2. [X86 Resource](https://notes.shichao.io/asm/#hello-world-example)
 
+  3. [X86 Resourece pt1](http://www.tldp.org/HOWTO/Assembly-HOWTO/index.html)
+  
+  4. [NASM](https://www.cs.uaf.edu/2006/fall/cs301/support/x86/)
+  
+  5. [Packet File Descriptors](http://www.garykessler.net/library/file_sigs.html)
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 # Social
@@ -322,6 +328,10 @@
   
   [Snort](https://www.snort.org)
   
+  2. BRO
+  
+  [BRO-OTX](https://github.com/hosom/bro-otx)
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Information sharing
@@ -341,12 +351,14 @@
   6. [Window Kernal](https://github.com/MortenSchenk/BHUSA2017/blob/master/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf)
 
   7. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
+  
+  8. [](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit#heading=h.eibwmbf6fru6)
 
-  8. [Emerging Threats](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)
+
   
 -----------------------------------------------------------------------------------------------------------------------------
 
-## IOT Hacks
+### IOT Hacks
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -390,8 +402,18 @@
   3. [Malware Threat Sharing](https://github.com/MISP/MISP)
   
   4. [RISIQ](https://community.riskiq.com/)
+
+  5. [Find Malware](https://github.com/MalwareReverseBrasil/malwaresearch)
+  
+  6. [Malware Framework](https://github.com/diogo-fernan/malsub)
+  
+  6. Secrets in QResource](http://blog.ptsecurity.com/2017/08/disabling-intel-me.html)
   
   5. [*** Git Repo](https://github.com/topics/malware-analysis)
+  
+### Windows
+
+  1. [Windows Startup](https://news.saferbytes.it/analisi/2013/10/windows-uefi-startup-a-technical-overview/)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -445,6 +467,39 @@
   
   3. [Threat Pinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup)
   
+  4. [Threat Exchange](https://github.com/EC-DIGIT-CSIRC/MISP-ThreatExchange)
+  
+  5. [Threat Hunter](https://github.com/0x4D31/sqhunter)
+  
+  6. [Emerging Threats](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)
+  
+  7. [GrayLog](https://github.com/Graylog2/graylog-plugin-threatintel)
+  
+  8. [Threat Feed](https://thehive-project.org)
+  
+  9. [OpenTaxi](http://opentaxii.readthedocs.io/en/latest/docker.html)
+  
+  10. [Caddy](https://github.com/EclecticIQ/cabby
+  
+  11. [FireMISP](https://github.com/deralexxx/FireMISP)
+  
+  12. [Splunkbase](https://splunkbase.splunk.com/app/3401/)
+  
+  13. [AlienVault](https://www.alienvault.com)
+  
+  14. [Event Tracker](https://www.eventtracker.com)
+  
+  15. [Fortinet](https://www.fortinet.com/products/siem/fortisiem.html)
+  
+  16. [Blackstratus](https://www.blackstratus.com)
+  
+  17. [NTT Security](https://www.nttsecurity.com)
+  
+  18. [Micro Focus](https://software.microfocus.com/en-us/software/enterprise-security)
+  
+  19. [Log Rhythm](https://logrhythm.com)
+  
+  20. [Trust Wave](https://www.trustwave.com/home/)
   
   
   2. [*** Git Repo](https://github.com/topics/threat-sharing)
@@ -544,6 +599,8 @@
   3. Security
   
   [MISP Container Standford](https://github.com/harvard-itsecurity/docker-misp)
+  
+  [CIF Container](https://github.com/ventz/docker-cif)
 
   3. Microservices
     
@@ -583,7 +640,14 @@
   [Docker Swarm](https://github.com/tpbowden/swarm-ingress-router)
   
 -----------------------------------------------------------------------------------------
-## Network
+
+# Network
+
+-----------------------------------------------------------------------------------------
+
+  1. [XN Twist](https://about.xntwist.tk)
+  
+-----------------------------------------------------------------------------------------  
   1. [I2P](https://geti2p.net/en/download/debian#ubuntu)
 
   2. [Freenet](https://freenetproject.org/pages/documentation.html)
@@ -612,7 +676,7 @@
   
   14. [Socks](https://www.ietf.org/rfc/rfc1928.txt)
   
-## Raspberry PI
+# Raspberry PI
 
   1. [PI-Hole](https://www.cyberciti.biz/faq/ubuntu-linux-install-pi-hole-with-a-openvpn/)
 
@@ -695,6 +759,8 @@
   17. [Spiderfoot](http://www.spiderfoot.net/)
   
   18. [*** Git Repo ***GOOD](https://github.com/IVMachiavelli/OSINT_Team_Links)
+  
+  15. [Collective Intelligence Framework](http://csirtgadgets.org)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
