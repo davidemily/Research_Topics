@@ -10,7 +10,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## CheatSheet 
+# CheatSheet 
 
 -----------------------------------------------------------------------------------------------------------------------------
   1. [Docker](https://github.com/wsargent/docker-cheat-sheet)
@@ -120,6 +120,39 @@
   2. [Windows Privilege Escalation](http://it-ovid.blogspot.fr/2012/02/windows-privilege-escalation.html)
   
   3. [WinDbg](http://windbg.info/download/doc/pdf/WinDbg_cmds.pdf)
+  
+-----------------------------------------------------------------------------------------------------------------------------
+
+# Data Mining
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [Basic Data Jouralist ToolBox](https://github.com/basilesimon/datajournalists-toolbox)
+
+  2. [Tech Papers](https://github.com/NicolasT/papers)
+
+  3. [Public API](https://github.com/toddmotto/public-apis)
+  
+  4. [UKParliament API](https://github.com/russss/ukparliament)
+  
+  5. [LegiScan API](https://github.com/poliquin/pylegiscan)
+  
+  6. [Open States API](https://github.com/poliquin/pylegiscan)
+  
+  7. [IRS 990 Database](https://github.com/CharityNavigator/irs990)
+  
+  8. [News API](https://github.com/SlapBot/newsapi)
+  
+  9. [ProPublica](https://github.com/eyeseast/propublica-congress)
+  
+  10. [CKAN](https://github.com/ckan/ckan)
+  
+  11. [News Paper](https://github.com/codelucas/newspaper)
+  
+  12. [News API](https://newsapi.aylien.com/)
+  
+  13. [Exective Order](https://github.com/chrisengelsma/executive_orders)
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 # Programming Languages
@@ -200,6 +233,11 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+  1. Library
+  
+  [MISP](https://github.com/MISP/PyMISP)
+  
+  
   1. [Tornado Asyn Networking Library](http://www.tornadoweb.org/en/stable/)
 
   2. [File Intel](https://github.com/keithjjones/fileintel)
@@ -225,37 +263,6 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
   1. [Social](https://github.com/v2-dev/awesome-social-engineering)
-  
------------------------------------------------------------------------------------------------------------------------------
-
-# Data Mining
-
------------------------------------------------------------------------------------------------------------------------------
-  1. [Basic Data Jouralist ToolBox](https://github.com/basilesimon/datajournalists-toolbox)
-
-  2. [Tech Papers](https://github.com/NicolasT/papers)
-
-  3. [Public API](https://github.com/toddmotto/public-apis)
-  
-  4. [UKParliament API](https://github.com/russss/ukparliament)
-  
-  5. [LegiScan API](https://github.com/poliquin/pylegiscan)
-  
-  6. [Open States API](https://github.com/poliquin/pylegiscan)
-  
-  7. [IRS 990 Database](https://github.com/CharityNavigator/irs990)
-  
-  8. [News API](https://github.com/SlapBot/newsapi)
-  
-  9. [ProPublica](https://github.com/eyeseast/propublica-congress)
-  
-  10. [CKAN](https://github.com/ckan/ckan)
-  
-  11. [News Paper](https://github.com/codelucas/newspaper)
-  
-  12. [News API](https://newsapi.aylien.com/)
-  
-  13. [Exective Order](https://github.com/chrisengelsma/executive_orders)
   
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -290,6 +297,22 @@
   11. [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
 
 -----------------------------------------------------------------------------------------------------------------------------
+  
+### Fraud Prevention
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [**** Git Repo](https://github.com/topics/fraud-prevention)
+  
+-----------------------------------------------------------------------------------------------------------------------------  
+  
+### Fraud Detection
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [*** Git Repo](https://github.com/topics/fraud-detection)
+  
+----------------------------------------------------------------------------------------------------------------------------- 
 
 ### IDS
 
@@ -299,6 +322,48 @@
   
   [Snort](https://www.snort.org)
   
+-----------------------------------------------------------------------------------------------------------------------------
+
+### Information sharing
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [*** Git Repo](https://github.com/topics/information-sharing)
+  
+  2. [*** Git Repo](https://github.com/topics/intelligence)
+  
+  3. [Fuzzing](https://labsblog.f-secure.com/2017/06/22/super-awesome-fuzzing-part-one/)
+
+  4. [Fuzzing From Apache](https://animal0day.blogspot.co.uk/2017/07/from-fuzzing-apache-httpd-server-to-cve.html)
+
+  5. [Case of Exception](https://www.corelan.be/index.php/2013/07/02/root-cause-analysis-integer-overflows/)
+
+  6. [Window Kernal](https://github.com/MortenSchenk/BHUSA2017/blob/master/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf)
+
+  7. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
+
+  8. [Emerging Threats](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)
+  
+-----------------------------------------------------------------------------------------------------------------------------
+
+## IOT Hacks
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [IOT Github rep](https://github.com/nebgnahz/awesome-iot-hacks)
+
+-----------------------------------------------------------------------------------------------------------------------------
+  
+### Low Level Attacks
+
+-----------------------------------------------------------------------------------------------------------------------------
+[*** Look Through this Github](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/BIOS%20UEFI%20Attacks%20Defenses.md)
+
+[***Embedded System](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Embedded%20Device%20%26%20Hardware%20Hacking%20-.md)
+
+### Car Hacking
+[***Need to sort this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Car%20Hacking.md)
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Kubernetes
@@ -315,11 +380,18 @@
     
 -----------------------------------------------------------------------------------------------------------------------------
 
-### Secure Email
+### Malware Analysis
 
 -----------------------------------------------------------------------------------------------------------------------------
+  1. [CyberSecurity Inventory](http://list.rawsec.ml/operating_systems.html)
 
-  1. [Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
+  2. [VirusTotal](https://www.virustotal.com/#/home/upload)
+
+  3. [Malware Threat Sharing](https://github.com/MISP/MISP)
+  
+  4. [RISIQ](https://community.riskiq.com/)
+  
+  5. [*** Git Repo](https://github.com/topics/malware-analysis)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -345,7 +417,58 @@
   3. Wireless Network Tools
 
 -----------------------------------------------------------------------------------------------------------------------------
- 
+
+### Secure Email
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [Secure Email GitHub Repo](https://github.com/OpenTechFund/secure-email)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+### SSL
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [OpenSSL](https://www.openssl.org)
+  1. [Self Signed SSL Cert](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+### Threat Sharing
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [Malware information sharing platform](https://github.com/MISP/MISP)
+  
+  2. [Yeti](https://yeti-platform.github.io)
+  
+  3. [Threat Pinch Lookup](https://github.com/cloudtracer/ThreatPinchLookup)
+  
+  
+  
+  2. [*** Git Repo](https://github.com/topics/threat-sharing)
+  
+  3. [*** Git Repo](https://github.com/topics/threatintel)
+  
+-----------------------------------------------------------------------------------------------------------------------------
+    
+### Threat Analysis
+
+-----------------------------------------------------------------------------------------------------------------------------
+    
+  1. [****GitHub Page](https://github.com/topics/threat-analysis)
+  
+----------------------------------------------------------------------------------------------------------------------------- 
+  
+### Threat Hunting
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [*** Git Repo](https://github.com/topics/threat-hunting)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 ### VPN
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -381,89 +504,21 @@
   
   16. [OpenVPN 30 sec setup](https://github.com/alaa/oh-my-vpn)
 
-### SSL
-
-
-
-  1. [OpenSSL](https://www.openssl.org)
-  1. [Self Signed SSL Cert](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04)
-
-### Malware Analysis
-  1. [CyberSecurity Inventory](http://list.rawsec.ml/operating_systems.html)
-
-  2. [VirusTotal](https://www.virustotal.com/#/home/upload)
-
-  3. [Malware Threat Sharing](https://github.com/MISP/MISP)
-  
-  4. [RISIQ](https://community.riskiq.com/)
-  
-  5. [*** Git Repo](https://github.com/topics/malware-analysis)
-  
-### Threat Sharing
-
-  1. [Malware information sharing platform](https://github.com/MISP/MISP)
-  
-  2. [*** Git Repo](https://github.com/topics/threat-sharing)
-  
-  3. [*** Git Repo](https://github.com/topics/threatintel)
-    
-### Threat Analysis
-    
-  1. [****GitHub Page](https://github.com/topics/threat-analysis)
-  
-### Fraud Prevention
-
-  1. [**** Git Repo](https://github.com/topics/fraud-prevention)
-  
-### Fraud Detection
-
-  1. [*** Git Repo](https://github.com/topics/fraud-detection)
-  
-### Threat Hunting
-
-  1. [*** Git Repo](https://github.com/topics/threat-hunting)
-  
-### Information sharing
-
-  1. [*** Git Repo](https://github.com/topics/information-sharing)
-  
-  2. [*** Git Repo](https://github.com/topics/intelligence)
-  
-### Low Level Attacks
-[*** Look Through this Github](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/BIOS%20UEFI%20Attacks%20Defenses.md)
-
-[***Embedded System](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Embedded%20Device%20%26%20Hardware%20Hacking%20-.md)
-
-### Car Hacking
-[***Need to sort this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Car%20Hacking.md)
-
-------------------------------------------------------------------------------------------------------------------------------
-
-## IOT Hacks
-  1. [IOT Github rep](https://github.com/nebgnahz/awesome-iot-hacks)
-
-------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Vulnerability Research
 
+-----------------------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Security Attack / Information
-  1. [Fuzzing](https://labsblog.f-secure.com/2017/06/22/super-awesome-fuzzing-part-one/)
 
-  2. [Fuzzing From Apache](https://animal0day.blogspot.co.uk/2017/07/from-fuzzing-apache-httpd-server-to-cve.html)
+-----------------------------------------------------------------------------------------------------------------------------
 
-  3. [Case of Exception](https://www.corelan.be/index.php/2013/07/02/root-cause-analysis-integer-overflows/)
-
-  4. [Window Kernal](https://github.com/MortenSchenk/BHUSA2017/blob/master/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf)
-
-  5. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
-
-  6. [Emerging Threats](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)
   
-
-------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Software
 
@@ -485,6 +540,10 @@
   [Docker container Tor](https://www.arulraj.net/2015/05/docker-container-for-tor-with-privoxy.html)
     
   [Create a Bridge and Shared Network](https://coderwall.com/p/2rpbba/docker-create-a-bridge-and-shared-network)
+  
+  3. Security
+  
+  [MISP Container Standford](https://github.com/harvard-itsecurity/docker-misp)
 
   3. Microservices
     
