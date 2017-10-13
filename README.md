@@ -614,6 +614,9 @@
 -----------------------------------------------------------------------------------------
 
 ### Firewall
+
+-----------------------------------------------------------------------------------------
+
   1. [What is a Firewall and How Does it Work](https://www.digitalocean.com/community/tutorials/what-is-a-firewall-and-how-does-it-work)
   
   2. [China DNS poisoning](https://github.com/shadowsocks/ChinaDNS)
@@ -632,6 +635,14 @@
   
 -----------------------------------------------------------------------------------------
 
+# Raspberry PI
+
+-----------------------------------------------------------------------------------------
+
+  1. [PI-Hole](https://www.cyberciti.biz/faq/ubuntu-linux-install-pi-hole-with-a-openvpn/)
+  
+-----------------------------------------------------------------------------------------
+
 ### Router
 
 -----------------------------------------------------------------------------------------
@@ -641,6 +652,27 @@
   2. [pfsense](https://www.pfsense.org)
   
 -----------------------------------------------------------------------------------------
+
+### Server
+
+-----------------------------------------------------------------------------------------
+  
+  1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
+
+  2. [PenTest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md)
+  
+  3. [Subnet Calculator](https://www.subnetonline.com/pages/subnet-calculators.php)
+  
+  4. [CIDR Calcualtor](http://www.subnet-calculator.com/cidr.php)
+  
+-----------------------------------------------------------------------------------------
+
+### Security Onion
+
+-----------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ### Socket
 
@@ -686,31 +718,10 @@
   9. [Industrial Control System](https://github.com/mpesen/awesome-industrial-control-system-security)
 
   10. [Network Attacks](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network%20Attacks%20%26%20Defenses.md
-  
-  
-# Raspberry PI
+ 
+ -----------------------------------------------------------------------------------------
 
-  1. [PI-Hole](https://www.cyberciti.biz/faq/ubuntu-linux-install-pi-hole-with-a-openvpn/)
-
-### Wireless Networks
-[**Need to sort through this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless%20Networks%20%26%20RF.md)
-
-### Server
-  
-  1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
-
-  2. [PenTest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md)
-  
-  3. [Subnet Calculator](https://www.subnetonline.com/pages/subnet-calculators.php)
-  
-  4. [CIDR Calcualtor](http://www.subnet-calculator.com/cidr.php)
-
-### Security Onion
-
-
-------------------------------------------------------------------------------------------------------------------------------
-
-## OSINT(Open Source Intelligence)
+# OSINT(Open Source Intelligence)
   1. [Autoshun](https://www.autoshun.org/)
 
   2. [CyberTHreat Feeds](http://osint.bambenekconsulting.com/feeds/)
