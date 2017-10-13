@@ -602,64 +602,16 @@
 -----------------------------------------------------------------------------------------
 
 # Network
-
------------------------------------------------------------------------------------------
-
-  1. [XN Twist](https://about.xntwist.tk)
   
 -----------------------------------------------------------------------------------------  
-  1. [I2P](https://geti2p.net/en/download/debian#ubuntu)
-
-  2. [Freenet](https://freenetproject.org/pages/documentation.html)
-
-  3. [OpenVS](http://owp.softunity.com.ru/)
-
-  4. [BRO](https://hub.docker.com/r/blacktop/bro/)
-
-  5. [RouterSploit](https://github.com/reverse-shell/routersploit)
-  
-  6. [pfsense](https://www.pfsense.org)
-  
-  7. [Open Source Firewall](https://opnsense.org/)
-  
-  8. [Packet Capture GitHub](https://github.com/caesar0301/awesome-pcaptools)
-
-  9. [Industrial Control System](https://github.com/mpesen/awesome-industrial-control-system-security)
-
-  10. [Network Attacks](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network%20Attacks%20%26%20Defenses.md)
-  
-  11. [Socket](http://beej.us/guide/bgnet/output/html/multipage/index.html)
-  
-  12. [TCP Building Blocks](https://hpbn.co/building-blocks-of-tcp/)
-  
-  13. [NAT](https://www.ietf.org/rfc/rfc1631.txt)
-  
-  14. [Socks](https://www.ietf.org/rfc/rfc1928.txt)
-  
-# Raspberry PI
-
-  1. [PI-Hole](https://www.cyberciti.biz/faq/ubuntu-linux-install-pi-hole-with-a-openvpn/)
-
-### Wireless Networks
-[**Need to sort through this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless%20Networks%20%26%20RF.md)
 
 ### Cloud Computing
 
+-----------------------------------------------------------------------------------------
+
   1. [Cloud Computing Conferences](http://stefan-kolb.github.io/cloud-conferences/)
-  
-### Router
-
-  1. [Router Exploit](https://github.com/reverse-shell/routersploit)
-
-### Server
-  
-  1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
-
-  2. [PenTest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md)
-  
-  3. [Subnet Calculator](https://www.subnetonline.com/pages/subnet-calculators.php)
-  
-  4. [CIDR Calcualtor](http://www.subnet-calculator.com/cidr.php)
+ 
+-----------------------------------------------------------------------------------------
 
 ### Firewall
   1. [What is a Firewall and How Does it Work](https://www.digitalocean.com/community/tutorials/what-is-a-firewall-and-how-does-it-work)
@@ -677,6 +629,81 @@
   7. [ScrambleSuite: A polymorph Network Protocol to Cirumvent Censorship](https://arxiv.org/pdf/1305.3199.pdf)
   
   8. [Firewall IPTables](https://n0where.net/how-does-it-work-iptables/)
+  
+-----------------------------------------------------------------------------------------
+
+### Router
+
+-----------------------------------------------------------------------------------------
+
+  1. [RouterSploit](https://github.com/reverse-shell/routersploit)
+  
+  2. [pfsense](https://www.pfsense.org)
+  
+-----------------------------------------------------------------------------------------
+
+### Socket
+
+-----------------------------------------------------------------------------------------
+  
+  1. [Socks](https://www.ietf.org/rfc/rfc1928.txt)
+  
+  2. [Socket Programming](http://beej.us/guide/bgnet/output/html/multipage/index.html)
+  
+-----------------------------------------------------------------------------------------
+
+### TCP
+
+-----------------------------------------------------------------------------------------
+
+  1.   12. [TCP Building Blocks](https://hpbn.co/building-blocks-of-tcp/)
+
+-----------------------------------------------------------------------------------------
+
+### Wireless
+
+-----------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------
+
+### 
+  1. [I2P](https://geti2p.net/en/download/debian#ubuntu)
+
+  2. [Freenet](https://freenetproject.org/pages/documentation.html)
+
+  3. [OpenVS](http://owp.softunity.com.ru/)
+
+  4. [BRO](https://hub.docker.com/r/blacktop/bro/)
+
+  
+
+  
+  7. [Open Source Firewall](https://opnsense.org/)
+  
+  8. [Packet Capture GitHub](https://github.com/caesar0301/awesome-pcaptools)
+
+  9. [Industrial Control System](https://github.com/mpesen/awesome-industrial-control-system-security)
+
+  10. [Network Attacks](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network%20Attacks%20%26%20Defenses.md
+  
+  
+# Raspberry PI
+
+  1. [PI-Hole](https://www.cyberciti.biz/faq/ubuntu-linux-install-pi-hole-with-a-openvpn/)
+
+### Wireless Networks
+[**Need to sort through this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless%20Networks%20%26%20RF.md)
+
+### Server
+  
+  1. [Celery Distributed Task Queue](http://www.celeryproject.org/)
+
+  2. [PenTest Lab](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building%20A%20Pentest%20Lab.md)
+  
+  3. [Subnet Calculator](https://www.subnetonline.com/pages/subnet-calculators.php)
+  
+  4. [CIDR Calcualtor](http://www.subnet-calculator.com/cidr.php)
 
 ### Security Onion
 
