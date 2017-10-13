@@ -303,22 +303,6 @@
   11. [Tor Fronting](https://www.mdsec.co.uk/2017/02/tor-fronting-utilising-hidden-services-for-privacy/)
 
 -----------------------------------------------------------------------------------------------------------------------------
-  
-### Fraud Prevention
-
------------------------------------------------------------------------------------------------------------------------------
-
-  1. [**** Git Repo](https://github.com/topics/fraud-prevention)
-  
------------------------------------------------------------------------------------------------------------------------------  
-  
-### Fraud Detection
-
------------------------------------------------------------------------------------------------------------------------------
-
-  1. [*** Git Repo](https://github.com/topics/fraud-detection)
-  
------------------------------------------------------------------------------------------------------------------------------ 
 
 ### IDS
 
@@ -337,22 +321,18 @@
 ### Information sharing
 
 -----------------------------------------------------------------------------------------------------------------------------
-
-  1. [*** Git Repo](https://github.com/topics/information-sharing)
   
-  2. [*** Git Repo](https://github.com/topics/intelligence)
+  1. [Fuzzing](https://labsblog.f-secure.com/2017/06/22/super-awesome-fuzzing-part-one/)
+
+  2. [Fuzzing From Apache](https://animal0day.blogspot.co.uk/2017/07/from-fuzzing-apache-httpd-server-to-cve.html)
+
+  3. [Case of Exception](https://www.corelan.be/index.php/2013/07/02/root-cause-analysis-integer-overflows/)
+
+  4. [Window Kernal](https://github.com/MortenSchenk/BHUSA2017/blob/master/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf)
+
+  5. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
   
-  3. [Fuzzing](https://labsblog.f-secure.com/2017/06/22/super-awesome-fuzzing-part-one/)
-
-  4. [Fuzzing From Apache](https://animal0day.blogspot.co.uk/2017/07/from-fuzzing-apache-httpd-server-to-cve.html)
-
-  5. [Case of Exception](https://www.corelan.be/index.php/2013/07/02/root-cause-analysis-integer-overflows/)
-
-  6. [Window Kernal](https://github.com/MortenSchenk/BHUSA2017/blob/master/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level%E2%80%93Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf)
-
-  7. [Application Security](https://github.com/paragonie/awesome-appsec#sei-cert-java-coding-standard-2007)
-  
-  8. [](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit#heading=h.eibwmbf6fru6)
+  6. [](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit#heading=h.eibwmbf6fru6)
 
 
   
@@ -365,16 +345,12 @@
   1. [IOT Github rep](https://github.com/nebgnahz/awesome-iot-hacks)
 
 -----------------------------------------------------------------------------------------------------------------------------
-  
-### Low Level Attacks
-
------------------------------------------------------------------------------------------------------------------------------
-[*** Look Through this Github](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/BIOS%20UEFI%20Attacks%20Defenses.md)
-
-[***Embedded System](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Embedded%20Device%20%26%20Hardware%20Hacking%20-.md)
 
 ### Car Hacking
-[***Need to sort this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Car%20Hacking.md)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+  1. [***Need to sort this](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Car%20Hacking.md)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -386,9 +362,9 @@
   
   2. [Rancher Manage Kubernets with Containers](http://rancher.com/)
   
-  3. [Kubernets Githud](https://github.com/hobby-kube/guide)
+  3. [*** GitHub](https://github.com/hobby-kube/guide)
   
-  4. [Kubernets GitHub](https://github.com/ramitsurana/awesome-kubernetes)
+  4. [*** GitHub](https://github.com/ramitsurana/awesome-kubernetes)
     
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -407,9 +383,7 @@
   
   6. [Malware Framework](https://github.com/diogo-fernan/malsub)
   
-  6. Secrets in QResource](http://blog.ptsecurity.com/2017/08/disabling-intel-me.html)
-  
-  5. [*** Git Repo](https://github.com/topics/malware-analysis)
+  6. [Secrets in QResource](http://blog.ptsecurity.com/2017/08/disabling-intel-me.html)
   
 ### Windows
 
@@ -432,6 +406,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
   1. Opernation System
+  
     [PenTest OS](https://n0where.net/best-linux-penetration-testing-distributions/)
 
   2. Network Tools
@@ -453,7 +428,8 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
   1. [OpenSSL](https://www.openssl.org)
-  1. [Self Signed SSL Cert](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04)
+  
+  2. [Self Signed SSL Cert](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -501,32 +477,12 @@
   
   20. [Trust Wave](https://www.trustwave.com/home/)
   
-  
-  2. [*** Git Repo](https://github.com/topics/threat-sharing)
-  
-  3. [*** Git Repo](https://github.com/topics/threatintel)
-  
------------------------------------------------------------------------------------------------------------------------------
-    
-### Threat Analysis
-
------------------------------------------------------------------------------------------------------------------------------
-    
-  1. [****GitHub Page](https://github.com/topics/threat-analysis)
-  
------------------------------------------------------------------------------------------------------------------------------ 
-  
-### Threat Hunting
-
------------------------------------------------------------------------------------------------------------------------------
-
-  1. [*** Git Repo](https://github.com/topics/threat-hunting)
-
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### VPN
 
 -----------------------------------------------------------------------------------------------------------------------------
+
   1. [IPVN](https://www.ivpn.net/privacy-guides/advanced-privacy-and-anonymity-part-8)
 
   2. [IPSEC-VPN](https://github.com/hwdsl2/setup-ipsec-vpn)
@@ -561,23 +517,27 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## Vulnerability Research
+### Vulnerability Research
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## Security Attack / Information
+### Security Attack / Information
 
 -----------------------------------------------------------------------------------------------------------------------------
 
   
 -----------------------------------------------------------------------------------------------------------------------------
 
-## Software
+# Software
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 ### Docker
+
+-----------------------------------------------------------------------------------------------------------------------------
   1. Training
     
   [Docker Training](https://training.docker.com/)
