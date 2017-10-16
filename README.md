@@ -348,6 +348,26 @@
   
   [Bro Manual](https://www.bro.org/sphinx/)
   
+  [RyeSecurity](http://ryesecurity.blogspot.com)
+  
+  [Bro Exercises](https://www.bro.org/current/exercises/prog-primer/index.html)
+  
+  [Bro Walk Through](http://www.icir.org/robin/rwth/bro-tour.pdf)
+  
+  [Bro Log Files](https://www.bro.org/sphinx-git/script-reference/log-files.html)
+  
+  [ISLET](https://github.com/jonschipp/ISLET)
+  
+  [Bro Youtube](https://www.youtube.com/playlist?list=PL2EYTX8UVCMjiVm1SIVG2E6jd9wF1X8t2)
+  
+  [Bro CheatSheet](https://github.com/corelight/bro-cheatsheets/blob/master/Corelight-Bro-Cheatsheets-2.5.pdf)
+  
+  [Bro Software](https://www.bro.org/community/software.html)
+  
+  []()
+  
+  []()
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Information sharing
