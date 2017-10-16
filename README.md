@@ -336,6 +336,16 @@
   
   [Rock NSM](http://rocknsm.io)
   
+  [Bro Docker Container](http://logisland.readthedocs.io/en/latest/tutorials/indexing-network-packets.html)
+  
+  [Komand Dashboard](https://blog.komand.com/how-to-send-bro-event-data-to-komand?utm_campaign=Komand%20Use%20Cases&utm_content=60929042&utm_medium=social&utm_source=twitter)
+  
+  [Bro Training](https://scholarworks.iu.edu/dspace/bitstream/handle/2022/21529/2017%20GPN%20AHM%20Security%20Log%20Analysis%20training.pdf?sequence=1)
+  
+  [Bro Setup w/pfsense](https://holdmybeer.xyz/2017/06/25/intro-to-threat-intelligence-with-bro-and-elk/)
+  
+  [Bro Basics](https://www.bro.org/current/slides/BroScriptStart.pdf)
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Information sharing
