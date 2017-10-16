@@ -346,6 +346,8 @@
   
   [Bro Basics](https://www.bro.org/current/slides/BroScriptStart.pdf)
   
+  [Bro Manual](https://www.bro.org/sphinx/)
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Information sharing
