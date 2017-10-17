@@ -105,7 +105,7 @@
   
 ### Network
 
------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
   
   1. [Packet Cheat Sheet](http://packetlife.net/library/cheat-sheets/)
   
@@ -230,7 +230,19 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-  1. Library
+  1. Admin Panels
+  
+  2. Data Visualization
+  
+  3. DevOps
+  
+  4. Network Virtualization
+  
+  5.  Networking
+  
+  6. 
+  
+  7. Library
   
   [MISP](https://github.com/MISP/PyMISP)
   
@@ -247,7 +259,16 @@
   
   5. [Fake AP](https://github.com/xdavidhu/mitmAP)
 
------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+
+### React
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+[React Resources](https://github.com/brillout/awesome-react-components)
+
+---------------------------------------------------------------------------------------------------------------------------
 
 ### X86
 
@@ -450,6 +471,8 @@
   1. [PF Ring](http://distrowatch.com/search.php?category=Security)
   
   2. [PF Ring ZC](http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/)
+  
+  3. [TCP Packet Structure](http://www.tcpipguide.com/free/index.htm)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -693,6 +716,8 @@
 
   1. [PI-Hole](https://www.cyberciti.biz/faq/ubuntu-linux-install-pi-hole-with-a-openvpn/)
   
+  2. [Raspberry PI github](https://github.com/thibmaek/awesome-raspberry-pi)
+  
 -----------------------------------------------------------------------------------------
 
 ### Router
@@ -716,6 +741,8 @@
   3. [Subnet Calculator](https://www.subnetonline.com/pages/subnet-calculators.php)
   
   4. [CIDR Calcualtor](http://www.subnet-calculator.com/cidr.php)
+  
+  5. [htaccess snippets](https://github.com/phanan/htaccess)
   
 -----------------------------------------------------------------------------------------
 
@@ -774,6 +801,7 @@
  -----------------------------------------------------------------------------------------
 
 # OSINT(Open Source Intelligence)
+
   1. [Autoshun](https://www.autoshun.org/)
 
   2. [CyberTHreat Feeds](http://osint.bambenekconsulting.com/feeds/)
