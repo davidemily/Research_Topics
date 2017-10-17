@@ -371,6 +371,8 @@
   
   [RyeSecurity](http://ryesecurity.blogspot.com)
   
+  [RyeSecurity 2013](http://ryesecurity.blogspot.com/2013/01/logging-youtube-titles-with-bro-1-its.html)
+  
   [Bro Exercises](https://www.bro.org/current/exercises/prog-primer/index.html)
   
   [Bro Walk Through](http://www.icir.org/robin/rwth/bro-tour.pdf)
@@ -385,9 +387,11 @@
   
   [Bro Software](https://www.bro.org/community/software.html)
   
-  []()
+  [Bro Scripting Applied Network Security](http://www.appliednsm.com/category/bro/)
   
-  []()
+  [San Bro](https://www.sans.edu/downloads/group-project-jan17.pdf)
+  
+  [GIAC Bro](https://www.giac.org/paper/gcia/10091/detecting-malicious-smb-activity-bro/140938)
   
 -----------------------------------------------------------------------------------------------------------------------------
 
