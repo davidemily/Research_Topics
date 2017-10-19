@@ -405,8 +405,13 @@
   
   [Bro Versity](https://server7.kproxy.com/servlet/redirect.srv/syku/shdtdhqcoj/spqr/p2/2013/08/21/broversity-lesson-2/)
   
-  []()
+  [Bro SSL](https://www.slideshare.net/AndrewBeard1/detecting-malicious-ssl-certificates-using-bro)
   
+  [BRO](https://www.slideshare.net/chrissistrunk/def-con-23-nsm-101-for-ics)
+  
+  [Liam Randall](https://www.youtube.com/watch?v=pm6XyskbosE)
+  
+  [Bro Tutorial](https://www.slideshare.net/wiliwe/usage-notes-of-the-bro-2223)
   
   
   
