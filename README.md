@@ -395,6 +395,21 @@
   
   [BRO Tutorial](https://www.slideshare.net/wiliwe/usage-notes-of-the-bro-2223)
   
+  [BRO tutorial](https://server7.kproxy.com/servlet/redirect.srv/slxv/sxbm/stcar/p1/2012/02/filtering-logs-with-bro.html)
+  
+  [Intel Stack Bro](https://server7.kproxy.com/servlet/redirect.srv/sruj/stcppaso/sbutnnhxahtjtf/p2/hc/en-us/articles/204221275-Intel-Client-After-Updating-Bro-on-Security-Onion)
+  
+  [Bro Scripting](https://server7.kproxy.com/servlet/redirect.srv/sjj/saaoaabfi/snop/p2/wp-content/uploads/2013/11/TROOPERS14-Bro_A_Flexible_Open-Source_Platform_for_Comprehensive_Network_Security_Monitoring-Robin_Sommer.pdf)
+  
+  [Bro scripting](https://server7.kproxy.com/servlet/redirect.srv/swl/sbxzdsbzq/sxfbhvajjzrfvdpquj/p2/2017/01/bro-custom-scripts.html)
+  
+  [Bro Versity](https://server7.kproxy.com/servlet/redirect.srv/syku/shdtdhqcoj/spqr/p2/2013/08/21/broversity-lesson-2/)
+  
+  []()
+  
+  
+  
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Information sharing
@@ -756,6 +771,9 @@
 
 -----------------------------------------------------------------------------------------
 
+  1. [Install](https://server7.kproxy.com/servlet/redirect.srv/sruj/sbyltpfs/snop/p1/ultimate-guide-to-installing-security-onion-with-snort-and-snorby/)
+  
+  2. []()
 
 ------------------------------------------------------------------------------------------------------------------------------
 
