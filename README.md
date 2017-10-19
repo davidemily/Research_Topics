@@ -393,6 +393,8 @@
   
   [GIAC Bro](https://www.giac.org/paper/gcia/10091/detecting-malicious-smb-activity-bro/140938)
   
+  [BRO Tutorial](https://www.slideshare.net/wiliwe/usage-notes-of-the-bro-2223)
+  
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Information sharing
