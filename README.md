@@ -31,6 +31,7 @@
   
   5. [Linux Base Commands Interesting](https://highon.coffee/blog/linux-commands-cheat-sheet/#breaking-out-of-limited-shells)
   
+  6. [Most Popular Linux Distros with Download Link](http://www.adminschoice.com/download-linux-top-10-free-linux-distributions-for-desktop-and-servers)
 ---------------------------------------------------------------------------------------------------------------------------
 
 ### X86
